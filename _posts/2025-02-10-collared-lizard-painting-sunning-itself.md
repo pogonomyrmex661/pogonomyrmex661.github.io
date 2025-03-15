@@ -1,0 +1,20 @@
+---
+title: A Collared Lizard Painting, in the sun
+date: 2025-02-10 02:11:11 +0700
+categories: [Art]
+tags: [art, lizard]     # TAG names should always be lowercase
+description: A painting of a Collard Lizard in the sun.
+image: images/20241110_155830-01_Original-1-scaled-1.jpeg
+---
+<!--
+![collared lizard painting](images/20241110_155830-01_Original-1-scaled-1.jpeg)
+*Collared Lizard – Tooli Acrylic pens and toned paper. Sunlight from our hall window is shining on it.*
+-->
+
+This is painting of a Collard Lizard that I did a few months ago, using Tooli acrylic marker pens. It’s hanging on the wall in our hallway. At 4PM on October 9th, the afternoon sun streams in through one our small hall windows like a spotlight and illuminates the lizard.
+
+It’s an inadvertent solar calendar, though I’m not sure exactly <a href="https://en.wikipedia.org/wiki/October_9" target="_blank">which notable event it’s commemorating</a>.
+
+Anyway, a friend remarked that perhaps the picture of the lizard just liked to bask in the sun, as real Collared Lizards do.
+
+I thought that was a pretty neat thought. I think about it nearly every time I walk by the picture now.
