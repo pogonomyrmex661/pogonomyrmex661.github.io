@@ -7,16 +7,18 @@
   icon: "fa-brands fa-bluesky"
   url: "https://bsky.app/profile/dale-ward.bsky.social"                 
 
-#- type: twitter
-#  icon: "fa-brands fa-x-twitter"
+- type: youtube
+  icon: "fa-brands fa-square-youtube"
+  url: "https://www.youtube.com/@pogonomyrmex"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
