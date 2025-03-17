@@ -70,7 +70,7 @@ _Eisner, Thomas, Maria Eisner, Melody Siegler. 2007. [Secret Weapons: Defenses o
 
 _Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
 
-_Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690._
+_Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://www.amazon.com/Beetles-Natural-History-Diversity-Coleoptera/dp/0228100690). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690._
 
 _Wilson, Joseph S. and Olivia Messinger Carril. 2015. [The Bees in your Backyard: A Guide to North America's Bees](https://www.amazon.com/Bees-Your-Backyard-Guide-Americas/dp/0691160775). Princeton University Press (November 24, 2015). ISBN 0691160775._
 
