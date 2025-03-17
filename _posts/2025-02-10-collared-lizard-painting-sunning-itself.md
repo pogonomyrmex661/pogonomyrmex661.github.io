@@ -6,10 +6,9 @@ tags: [art, lizard]     # TAG names should always be lowercase
 description: A painting of a Collard Lizard in the sun.
 image: images/20241110_155830-01_Original-1-scaled-1.jpeg
 ---
-<!--
-![collared lizard painting](images/20241110_155830-01_Original-1-scaled-1.jpeg)
-*Collared Lizard – Tooli Acrylic pens and toned paper. Sunlight from our hall window is shining on it.*
--->
+
+![Desert Tortoise painting](images/20241110_155830-01_Original-1-scaled-1.jpeg "Collared Lizard painting")
+*Collared Lizard - Tooli acrylic pens*
 
 This is painting of a Collard Lizard that I did a few months ago, using Tooli acrylic marker pens. It’s hanging on the wall in our hallway. At 4PM on October 9th, the afternoon sun streams in through one our small hall windows like a spotlight and illuminates the lizard.
 
