@@ -1,9 +1,9 @@
 ---
-title: "Gall on Creosote Bush - Stem-Gall Midge"
+title: "Raven Steals the Moon"
 date: 2025-01-13 02:11:12 +0700
 categories: [art]
 tags: [art, raven]    
-description: Raven Steals the Moon. A felted wool sculpture by Heather Aquarius, with Mesa Verde in the background. 
+description: A felted wool sculpture by Heather Aquarius, with Mesa Verde in the background. 
 image: images/IMG_05702.jpg
 ---
 
