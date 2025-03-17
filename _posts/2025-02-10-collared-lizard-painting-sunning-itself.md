@@ -1,6 +1,6 @@
 ---
 title: A Collared Lizard Painting, in the sun
-date: 2025-02-10 02:11:11 +0700
+date: 2025-02-10 02:11:12 +0700
 categories: [Art]
 tags: [art, lizard]     # TAG names should always be lowercase
 description: A painting of a Collard Lizard in the sun.
