@@ -1,7 +1,7 @@
 ---
 title: "Desert Tortoise"
 date: 2019-10-10 02:11:12 +0700
-categories: [Art]
+categories: [art]
 tags: [art, tortoise]    
 description: A painting of a Desert Tortoise
 image: images/80F316EE-10E1-4134-A54E-3539068AC17B.jpeg

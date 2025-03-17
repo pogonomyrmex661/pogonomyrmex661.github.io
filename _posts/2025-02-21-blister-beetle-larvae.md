@@ -1,8 +1,8 @@
 ---
 title: Blister Beetle Larvae on Native Bees - Triungula!
 date: 2025-02-21 02:11:12 +0700
-categories: [beetle, blister beetle, bees]
-tags: [bees, beetle, blister-beetle]
+categories: [beetle, blister beetle, bee]
+tags: [bee, beetle, blister-beetle]
 description: Blister Beetle triungula on bees
 image: images/aa-IMG_7000_01_f-g-r-arr.jpg
 ---
