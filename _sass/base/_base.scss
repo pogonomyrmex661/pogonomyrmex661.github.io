@@ -63,11 +63,12 @@ main {
     }
   }
 }
-
+/* changed aspect ratio of preview image to get less 'zoom/crop' */
 .preview-img {
-  aspect-ratio: 40 / 21;
+  aspect-ratio: 30 / 30;
   width: 100%;
   height: 100%;
+  //object-fit: contain;
   overflow: hidden;
 
   @extend %rounded;
