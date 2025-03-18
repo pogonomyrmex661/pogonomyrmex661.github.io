@@ -2,7 +2,7 @@
 title: "White-lined Sphinx Moth (Hyles lineata) feeding at Penstemon Flowers"
 date: 2024-06-11 02:11:12 +0700
 categories: 
-  - "moths-and-butterflies"
+  - "insect"
 tags: 
   - "moth"
 coverImage: "aa-IMG_7984-t-g-r.jpg"
