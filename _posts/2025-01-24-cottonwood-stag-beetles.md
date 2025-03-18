@@ -115,18 +115,18 @@ Yes, I know it's not _really_ applicable, and that by writing that, I'm exposing
 
 But still - that's what runs through my mind when I see the beetles staggering in the light, dried mud still on them.
 
-###### Sources:_
+###### Sources:
 
 _Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
 
-_Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690._
+*Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://tightloop.com/blog/2024/03/15/oil-beetle-meloe-sp-blister-beetle/The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.*
 
-Dong, Xu-ming and Lu Jiang. 2024. [Species-specific larval acoustic behaviour of three stag beetles (Coleoptera: Lucanidae), with emphasis on their stridulatory organs and acoustic signals](https://www.sciencedirect.com/science/article/abs/pii/S1467803923000671). Arthropod Structure and Development. Vol. 80. May 2024.
+*Dong, Xu-ming and Lu Jiang. 2024. [Species-specific larval acoustic behaviour of three stag beetles (Coleoptera: Lucanidae), with emphasis on their stridulatory organs and acoustic signals](https://www.sciencedirect.com/science/article/abs/pii/S1467803923000671). Arthropod Structure and Development. Vol. 80. May 2024.*
 
-Dr. Maria Sprecher-Uebersax has some lovely photos and information on _Lucanus cervus_, a European Stag Beetle. She's got really nice photos and accounts of the grubs' stridulating here: [https://maria.fremlin.de/stagbeetles/larva.html#stridulation](https://maria.fremlin.de/stagbeetles/larva.html#stridulation)
+*Dr. Maria Sprecher-Uebersax has some lovely photos and information on _Lucanus cervus_, a European Stag Beetle. She's got really nice photos and accounts of the grubs' stridulating here: [https://maria.fremlin.de/stagbeetles/larva.html#stridulation](https://maria.fremlin.de/stagbeetles/larva.html#stridulation)*
 
-_The Internet Movie Database, for their [quotation from Buffy the Vampire Slayer.](https://www.imdb.com/title/tt0533385/quotes/) It's from [Season 6, Episode 3 - "After Life"](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_season_6).
+*The Internet Movie Database, for their [quotation from Buffy the Vampire Slayer.](https://www.imdb.com/title/tt0533385/quotes/) It's from [Season 6, Episode 3 - "After Life"](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_season_6).*
 
-_Pat Otto's "Good Natured" blog post on Stag Beetles - here: [https://www.stcnature.org/good-natured/stag-beetles-2/](https://www.stcnature.org/good-natured/stag-beetles-2/). I think Pat is talking mostly about the Giant Stag Beetle, Lucanus elaphus. It is even more spectacular, morphologically, than our Cottonwood Stag Beetle, with huge, antler-like mandibles. But it's such a well-written and informative post, it's hard not to mention.
+*Pat Otto's "Good Natured" blog post on Stag Beetles - here: [https://www.stcnature.org/good-natured/stag-beetles-2/](https://www.stcnature.org/good-natured/stag-beetles-2/). I think Pat is talking mostly about the Giant Stag Beetle, Lucanus elaphus. It is even more spectacular, morphologically, than our Cottonwood Stag Beetle, with huge, antler-like mandibles. But it's such a well-written and informative post, it's hard not to mention.*
 
-_As always, seemingly, many, many thanks to [Bugguide.net](https://bugguide.net/node/view/93340).
+*As always, seemingly, many, many thanks to [Bugguide.net](https://bugguide.net/node/view/93340).*
