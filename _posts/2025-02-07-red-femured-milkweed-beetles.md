@@ -62,14 +62,14 @@ Maybe enhancing that red-and-black aposematic coloration could explain the way t
 
 ##### _Sources_
 
-C_hemsak, J.A. and F. A. Noguera. 2003. New species of the genus Tetraopes Schoenherr (Coleoptera: Cerambysidae). The Pan-Pacific Entomologist - July 2003. 79(3/4): 237-244. [PDF Here] (https://www.researchgate.net/publication/292268006_New_species_of_the_genus_Tetraopes_Schoenherr_Coleoptera_Cerambycidae). A useful key.
+Chemsak, J.A. and F. A. Noguera. 2003. New species of the genus Tetraopes Schoenherr (Coleoptera: Cerambysidae). The Pan-Pacific Entomologist - July 2003. 79(3/4): 237-244. [PDF Here] (https://www.researchgate.net/publication/292268006_New_species_of_the_genus_Tetraopes_Schoenherr_Coleoptera_Cerambycidae). A useful key.
 
-_Eisner, Thomas and Edward O. Wilson. 2003. [For Love of Insects](https://www.amazon.com/Love-Insects-Thomas-Eisner/dp/0674011813). Belknap Press, First Edition (November 30, 2003). ISBN 0674011813._
+Eisner, Thomas and Edward O. Wilson. 2003. [For Love of Insects](https://www.amazon.com/Love-Insects-Thomas-Eisner/dp/0674011813). Belknap Press, First Edition (November 30, 2003). ISBN 0674011813._
 
-_Eisner, Thomas, Maria Eisner, Melody Siegler. 2007. [Secret Weapons: Defenses of Insects, Spiders, Scorpions and Other Many-Legged Creatures](https://www.amazon.com/Secret-Weapons-Scorpions-Many-Legged-Creatures/dp/0674024036). Belknap Press: An Imprint of Harvard University Press (April 30, 2007). 384 pages. ISBN  0674024036._
+Eisner, Thomas, Maria Eisner, Melody Siegler. 2007. [Secret Weapons: Defenses of Insects, Spiders, Scorpions and Other Many-Legged Creatures](https://www.amazon.com/Secret-Weapons-Scorpions-Many-Legged-Creatures/dp/0674024036). Belknap Press: An Imprint of Harvard University Press (April 30, 2007). 384 pages. ISBN  0674024036._
 
-_Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
+Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
 
-_Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://tightloop.com/blog/2024/03/15/oil-beetle-meloe-sp-blister-beetle/The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690._
+Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://tightloop.com/blog/2024/03/15/oil-beetle-meloe-sp-blister-beetle/The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.
 
 Bugguide.net's [entry for Tentraopes](https://bugguide.net/node/view/2965) \- many thanks, again! Still!
