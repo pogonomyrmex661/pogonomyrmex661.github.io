@@ -31,4 +31,4 @@ Pretty neat.
 
 ##### 2024 Update - This tank tested positive for ranavirus
 
-Colorado Parks and Wildlife tested performed eDNA testing on this tank for ranavirus and two types of chytrid fungus. **This tank tested positive for ranavirus**. For more information, check out this post: [Diseases and Die-offs - More Tiger Salamanders, and an encounter with Ranavirus](http://Diseases and Die-offs - More Tiger Salamanders, and an encounter with Ranavirus).
+Colorado Parks and Wildlife tested performed eDNA testing on this tank for ranavirus and two types of chytrid fungus. **This tank tested positive for ranavirus**. For more information, check out this post: [Diseases and Die-offs - More Tiger Salamanders, and an encounter with Ranavirus](https://tightloop.com/blog/2019/08/06/more-tiger-salamanders/).
