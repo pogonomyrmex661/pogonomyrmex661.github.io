@@ -3,8 +3,8 @@ title: We’re Going on an Adventure!
 date: 2019-09-27 02:02:02 +0700
 categories: [art, corvids]
 tags: [art, birds, ravens]
-image: images/959787DD-FE6A-4A80-8CA7-32A2085C8696.jpeg
-description: We're going on an adventure
+image: images/959787DD-FE6A-4A80-8CA7-32A2085C8696-1024x680.jpeg
+description: In which we hit the road, and think about slime molds and "Children of Ruin".
 ---
 
 ![pic](images/959787DD-FE6A-4A80-8CA7-32A2085C8696-1024x680.jpeg "raven pic")
