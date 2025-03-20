@@ -1,8 +1,8 @@
 ---
 title: Watching Green Soldier Flies in the Garden
 date: 2024-12-21 02:02:02 +0700
-categories: 
-tags: 
+categories: [photo]
+tags: [insect, fly]
 image: images/jpgaa-IMG_8523-g-r.jpg
 description: 
 ---

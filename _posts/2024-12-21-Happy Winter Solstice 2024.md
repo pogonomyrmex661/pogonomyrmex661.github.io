@@ -1,8 +1,8 @@
 ---
 title: Happy Winter Solstice 2024!
 date: 2024-12-21 02:02:02 +0700
-categories: 
-tags: 
+categories: [art]
+tags: [art, raven, corvid, bird]
 image: images/aa-IMG_5617-g-r-1.jpg
 description: 
 ---

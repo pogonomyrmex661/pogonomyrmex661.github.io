@@ -1,8 +1,8 @@
 ---
 title: "Barn Swallows destroy a Bald-faced Hornet nest"
 date: 2023-04-03 02:11:12 +0700
-categories: [wasps]
-tags: [bird, wasp]    
+categories: [photo]
+tags: [bird, wasp, insect, hymenoptera]    
 description: Nesting Barn Swallows destroy a Bald-faced Hornet nest.
 image: images/2012-08-19-Cortez-horses-104.jpg
 ---

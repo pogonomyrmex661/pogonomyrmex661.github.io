@@ -1,8 +1,8 @@
 ---
 title: Watching Dodder - A Fascinating Parasitic Plant
 date: 2024-10-22 02:02:02 +0700
-categories: 
-tags: 
+categories: [photo]
+tags: [plant, parasite]
 image: images/aa-IMG_1831_01_f-g-r.jpg
 description: 
 ---

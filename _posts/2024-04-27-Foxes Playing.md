@@ -1,8 +1,8 @@
 ---
 title: Foxes Playing
 date: 2024-04-27 02:02:02 +0700
-categories: 
-tags: 
+categories: [photo]
+tags: [fox, mammal]
 image: images/aaaa-IMG_8612-scaled-t-g-r.jpg
 description: 
 ---

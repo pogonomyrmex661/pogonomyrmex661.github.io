@@ -1,8 +1,8 @@
 ---
 title: Watching Carrot Wasps in the Garden
 date: 2024-11-20 02:02:02 +0700
-categories: 
-tags: 
+categories: [photo]
+tags: [insect, hymenoptera, wasp]
 image: images/aa-IMG_2224_01_f-g-r2.jpg
 description: 
 ---

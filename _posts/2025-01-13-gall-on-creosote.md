@@ -1,7 +1,7 @@
 ---
 title: "Gall on Creosote Bush - Stem-Gall Midge"
 date: 2025-01-13 02:11:12 +0700
-categories: [gall]
+categories: [photo]
 tags: [fly, insect, gall, plant]    
 description: This strange looking growth on a Creosote Bush is a gall formed by a Stem-Gall Midge, Asphondylia auripila.
 image: images/DSCN0820-g-r.jpg

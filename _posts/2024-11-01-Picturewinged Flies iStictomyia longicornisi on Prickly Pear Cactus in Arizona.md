@@ -1,8 +1,8 @@
 ---
 title: Picture-winged Flies (<i>Stictomyia longicornis</i>) on Prickly Pear Cactus in Arizona
 date: 2024-11-01 02:02:02 +0700
-categories: 
-tags: 
+categories: [photo]
+tags: [fly, insect]
 image: images/aa-CRW_1182_01-g-r2.jpg
 description: 
 ---

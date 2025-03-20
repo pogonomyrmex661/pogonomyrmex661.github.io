@@ -1,8 +1,8 @@
 ---
 title: An Encounter with a Rattlesnake and a Gopher Snake in Southwestern Colorado
 date: 2024-06-18 02:02:02 +0700
-categories: 
-tags: 
+categories: [photo]
+tags: [snake, reptile]
 image: images/aa-IMG_7994-g-r.jpg
 description: 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Cottonwood Stag Beetles - Lucanus mazama"
 date: 2025-01-24 02:11:12 +0700
-categories: [insect]
+categories: [photo]
 tags: [insect, beetle]    
 description: Watching and photographing Cottonwood Stag Beetles (*Lucanus mazama*) in Southwestern Colorado
 image: images/aa-IMG_1053_02_f-g-r.jpg

@@ -2,7 +2,7 @@
 title: A Collared Lizard Painting, in the sun
 date: 2025-02-10 02:11:12 +0700
 categories: [art]
-tags: [art, lizard]     # TAG names should always be lowercase
+tags: [art, lizard]    
 description: A painting of a Collard Lizard in the sun.
 image: images/20241110_155830-01_Original-1-scaled-1.jpeg
 ---

@@ -1,8 +1,8 @@
 ---
 title: \Cotton Balls\ on Fourwinged Saltbush - Galls formed by Cecidomyid Midges
 date: 2024-10-04 02:02:02 +0700
-categories: 
-tags: 
+categories: [photo]
+tags: [gall, plant, fly, insect]
 image: images/aa-IMG_4185-g-r.jpg
 description: 
 ---
@@ -64,4 +64,4 @@ _BugGuide.net's [page on Asphondylia neomexicana](https://bugguide.net/node/view
 
 _Gallformer.org's [page on Asphondylia neomexicana](https://gallformers.org/gall/1779)._
 
-_Russo, Ronald A. 2021. [Plant Galls of the Western United States (Princeton Field Guides)](https://www.amazon.com/Western-United-States-Princeton-Guides/dp/0691205760). Princeton University Press; Illustrated edition (April 20, 2021). 400 pages. ISBN-10 ‎ 0691205760. ISBN-13 ‎ 978-0691205762._
+_Russo, Ronald A. 2021. [Plant Galls of the Western United States (Princeton Field Guides)](https://www.amazon.com/Western-United-States-Princeton-Guides/dp/0691205760). Princeton University Press; Illustrated edition (April 20, 2021). 400 pages. ISBN-10 0691205760. ISBN-13  978-0691205762._

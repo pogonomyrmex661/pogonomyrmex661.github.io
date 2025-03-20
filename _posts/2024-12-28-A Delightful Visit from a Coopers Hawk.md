@@ -1,8 +1,8 @@
 ---
 title: A Delightful Visit from a Cooper's Hawk
 date: 2024-12-28 02:02:02 +0700
-categories: 
-tags: 
+categories: [photo]
+tags: [bird, hawk]
 image: images/aa-IMG_2651_01_f-g-r.jpg
 description: 
 ---
