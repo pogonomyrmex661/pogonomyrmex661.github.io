@@ -59,8 +59,8 @@ They were, for better or worse, not so very different than us.
 
 [House of Rain: Tracking a Vanished Civilization Across the American Southwest](https://www.amazon.com/House-Rain-Tracking-Civilization-Southwest/dp/0316067547/ref=asap_bc?ie=UTF8). Craig Childs. 2008.
 
-[The Archaelogy of Castle Rock Pueblo](http://www.crowcanyon.org/researchreports/castlerock/text/crpw_introduction.asp) Kristen A. Kukelman (ed.), Crow Canyon Archaeological Center. 2000.
+[The Archaelogy of Castle Rock Pueblo](https://www.crowcanyon.org/researchreports/castlerock/text/crpw_introduction.asp) Kristen A. Kukelman (ed.), Crow Canyon Archaeological Center. 2000.
 
-[The Bioarchaeology and Taphonomy of Violence at Castle Rock and Sand Canyon Pueblos, Southwestern Colorado](http://www.academicroom.com/article/bioarchaeology-and-taphonomy-violence-castle-rock-and-sand-canyon-pueblos-southwestern-colorado). Debra L. Martin, Ricky R. Lightfoot, Kristin A. Kuckelman. 2002. [Here is an alternate link to this article](https://www.academia.edu/6541615/The_Bioarchaeology_and_Taphonomy_of_Violence_at_Castle_Rock_and_Sand_Canyon_Pueblos_Southwestern_Colorado).
+[The Bioarchaeology and Taphonomy of Violence at Castle Rock and Sand Canyon Pueblos, Southwestern Colorado](https://www.academicroom.com/article/bioarchaeology-and-taphonomy-violence-castle-rock-and-sand-canyon-pueblos-southwestern-colorado). Debra L. Martin, Ricky R. Lightfoot, Kristin A. Kuckelman. 2002. [Here is an alternate link to this article](https://www.academia.edu/6541615/The_Bioarchaeology_and_Taphonomy_of_Violence_at_Castle_Rock_and_Sand_Canyon_Pueblos_Southwestern_Colorado).
 
 [The Chaco Meridian: One Thousand Years of Political and Religious Power in the Ancient Southwest](https://www.amazon.com/Chaco-Meridian-Political-Religious-Southwest/dp/1442246456). Stephen H. Lekson.  Rowman & Littlefield Publishers; Second edition. ISBN 9781442246454. 2015.

@@ -7,7 +7,7 @@ image: images/959787DD-FE6A-4A80-8CA7-32A2085C8696.jpeg
 description: 
 ---
 
-\[caption id="attachment\_3491" align="aligncenter" width="600"\][![](images/959787DD-FE6A-4A80-8CA7-32A2085C8696-1024x680.jpeg)](http://tightloop.com/blog/wp-content/uploads/2019/09/959787DD-FE6A-4A80-8CA7-32A2085C8696.jpeg) We’re Going on an Adventure!\[/caption\]
+\[caption id="attachment\_3491" align="aligncenter" width="600"\][![](images/959787DD-FE6A-4A80-8CA7-32A2085C8696-1024x680.jpeg)](img) We’re Going on an Adventure!\[/caption\]
 
 We recently had family visiting.  Every morning we would meet, choose a fun destination, and hit the road.
 
