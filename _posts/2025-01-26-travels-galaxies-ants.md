@@ -1,5 +1,5 @@
 ---
-title: "Travels, Galaxies and Ants"
+title: Travels, Galaxies and Ants
 date: 2025-01-26 02:11:12 +0700
 categories: [art]
 tags: [art, ant]    

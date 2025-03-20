@@ -1,5 +1,5 @@
 ---
-title: "Red-femured Milkweed Beetles and Showy Milkweed"
+title: Red-femured Milkweed Beetles and Showy Milkweed
 date: 2025-02-07 +0700
 categories: [photo]
 tags: [insect, beetle, plant]    

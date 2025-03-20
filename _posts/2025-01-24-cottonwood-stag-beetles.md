@@ -1,5 +1,5 @@
 ---
-title: "Cottonwood Stag Beetles - Lucanus mazama"
+title: Cottonwood Stag Beetles - Lucanus mazama
 date: 2025-01-24 02:11:12 +0700
 categories: [photo]
 tags: [insect, beetle]    

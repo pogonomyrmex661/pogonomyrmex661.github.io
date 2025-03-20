@@ -1,5 +1,5 @@
 ---
-title: "Gall on Creosote Bush - Stem-Gall Midge"
+title: Gall on Creosote Bush - Stem-Gall Midge
 date: 2025-01-13 02:11:12 +0700
 categories: [photo]
 tags: [fly, insect, gall, plant]    

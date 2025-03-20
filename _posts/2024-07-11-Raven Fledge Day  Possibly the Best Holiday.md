@@ -1,5 +1,5 @@
 ---
-title: \Raven Fledge Day\ - Possibly the Best Holiday?
+title: Raven Fledge Day - Possibly the Best Holiday?
 date: 2024-07-11 02:02:02 +0700
 categories: [photo]
 tags: [bird, raven, corvid]
