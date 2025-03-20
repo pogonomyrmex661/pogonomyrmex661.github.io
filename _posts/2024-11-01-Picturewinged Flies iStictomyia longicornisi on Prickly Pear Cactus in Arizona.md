@@ -42,7 +42,7 @@ Based upon [Elena Kamevena's 2006 key](https://www.researchgate.net/publication/
 
 To my surprise, I seemed to have both _Stictomyia longicornis_ and _Stictomyia punctata_ in my photos. How cool is that?
 
-I know now that I could have submitted the images to [inaturalist.org](http://inaturalist.org), [bugguide.net](http://bugguide.net), or one of the Facebook groups for an identification. What a marvelous time in which we live.
+I know now that I could have submitted the images to [inaturalist.org](https://inaturalist.org), [bugguide.net](https://bugguide.net), or one of the Facebook groups for an identification. What a marvelous time in which we live.
 
 ###### Biology and natural History
 

@@ -57,7 +57,7 @@ The wasp gets entirely inside the tunnel leading to the bee's nesting chamber, a
 
 Perhaps this behavior - the wasp's willingness to enter into the bee's nest - helps explain _Gasteruption's_ strange, elongated body shape. It makes it possible for _Gasteruption_ to be a relatively large wasp, yet still fit into the small diameter nest tunnels of solitary bees.
 
-![picture](images/aa-IMG_2285_01_f-g-r2.jpg)_Marshall, Stephen A. 2012. [Flies: The Natural History and Diversity of Diptera](The Natural History and Diversity of Diptera). Firefly Books; 1st ed. August 30, 2012. 616 pages. ISBN 1770851003._
+![picture](images/aa-IMG_2285_01_f-g-r2.jpg)
 Another interesting feature of the Carrot Wasps are the swellings on its hind legs. They look a bit like saddlebags. Some people have speculated that they act as inertial stabilizers as the wasp hovers in front of tree trunks while they are looking for solitary bee nests. [Recent research](https://academic.oup.com/isd/article/3/1/2/5272370?login=false) suggests another possible function - they may act as sensors, to detect vibrations made by the adult solitary bees as they excavate their nests, or by bee larvae as they move inside the nest chamber.
 
 ![picture](images/aa-IMG_1882_01_f-r4.jpg)
