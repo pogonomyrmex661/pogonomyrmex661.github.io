@@ -32,7 +32,7 @@ This happened a couple of times. Laurie would find a starfish, start looking at 
 
 It was like watching people repeatedly reenact "The Creation of Adam", that painting on the ceiling of the Sistine Chapel.
 
-![picture](images/I/IMG_0456.jpg "Creation")
+![picture](images/IMG_0456.jpg "Creation")
 *Michelangelo's "Creation of Adam", from the Sistine Chapel. Photo from [Wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/6/64/Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg)*
 
 It reminded me of a moment on another trip, from years previously.  It was a funny echo in time, back from Laurie's first visit to New Hampshire.
