@@ -1,5 +1,5 @@
 ---
-title: \Cotton Balls\ on Fourwinged Saltbush - Galls formed by Cecidomyid Midges
+title: Cotton Balls on Fourwinged Saltbush - Galls formed by Cecidomyid Midges
 date: 2024-10-04 02:02:02 +0700
 categories: [photo]
 tags: [gall, plant, fly, insect]
