@@ -4,7 +4,7 @@ date: 2017-09-23 02:02:02 +0700
 categories: [stories]
 tags: [belize, stories, snorkel, invertebrate, starfish]
 image: images/IMG_0109.jpg
-description: 
+description: An fine experience on a snorkelling trip to Belize.
 ---
 
 ![picture](images/IMG_0199.jpg "starfish on turtle grass)
