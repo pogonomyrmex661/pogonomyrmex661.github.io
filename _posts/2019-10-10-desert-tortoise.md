@@ -9,7 +9,7 @@ image: images/80F316EE-10E1-4134-A54E-3539068AC17B.jpeg
 
 ![Desert Tortoise painting](images/80F316EE-10E1-4134-A54E-3539068AC17B.jpeg "Desert Tortoise painting")
 *Desert Tortoise - watercolor and Inktense pencil*
-This is is a watercolor painting that I did of a Desert Tortoise. 
+Here's a watercolor of a Desert Toroise, inspired by an encounter that I had a couple of years ago.
 
 I was walking up a shallow wash in the Sonoran Desert, just outside of Tucson. It was in the late Spring, 2003. There had just been a rainstorm and the air had that lovely wild, slightly medicinal cresote bush smell that it gets after a rain.
 
