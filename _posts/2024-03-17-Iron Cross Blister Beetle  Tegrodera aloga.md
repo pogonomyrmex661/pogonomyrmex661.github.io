@@ -48,7 +48,7 @@ _Sources:_
 
 _Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
 
-_Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690._
+Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://tightloop.com/blog/2024/03/15/oil-beetle-meloe-sp-blister-beetle/The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.
 
 Werner, Floyd G. and Carl Olson. 1994. [Learning About and Living with Insects of the Southwest: How to Identify Helpful, Harmful and Venomous Insects.](https://www.amazon.com/Learning-About-Living-Insects-Southwest/dp/1555610609) Fisher Books, First Edition. ISBN 1555610609.
 
