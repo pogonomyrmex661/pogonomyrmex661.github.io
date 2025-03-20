@@ -40,4 +40,4 @@ _Sources:_
 
 _Russo, Ronald A. 2021. [Plant Galls of the Western United States (Princeton Field Guides, 142)](https://www.amazon.com/Western-United-States-Princeton-Guides/dp/0691205760?psc=1). Princeton University Press. ISBN-10: 0691205760._
 
-_Plant Disease Diagnostic Clinic. [Cedar-Apple Rust: Gymnosporangium juniperi-virginianae](http://plantclinic.cornell.edu/factsheets/CedarAppleRust.pdf). Cornell University, College of Agriculture and Life Sciences. Plant Disease Diagnostic Clinic, Plant Pathology and Plant-Microbe Biology Section._
+_Plant Disease Diagnostic Clinic. [Cedar-Apple Rust: Gymnosporangium juniperi-virginianae](https://plantclinic.cornell.edu/factsheets/CedarAppleRust.pdf). Cornell University, College of Agriculture and Life Sciences. Plant Disease Diagnostic Clinic, Plant Pathology and Plant-Microbe Biology Section._
