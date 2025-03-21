@@ -1,8 +1,8 @@
 ---
 title: Cooper's Hawk Hunting Eurasian Collared Doves in the Horse Sheds
 date: 2023-04-14 02:02:02 +0700
-categories: [coopershawk]
-tags: [birds, hawks]
+categories: [hawk]
+tags: [bird, hawk, accipiter]
 image: images/IMG_3108-r-circle-1.jpg
 description: When Laurie was returning from putting the horses out on their evening hay, she saw a Cooper’s Hawk perched on the paddock fence. It was staring intently at a Eurasian Collared Dove that was perched near the horse sheds. After…
 ---
