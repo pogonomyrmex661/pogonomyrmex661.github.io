@@ -2,7 +2,7 @@
 title: A Water Strider scavenging on dead Tiger Salamander larva?
 date: 2023-08-03 02:02:02 +0700
 categories: [salamander]
-tags: [insect, amphibian, salamander, ephemeral-pool, disease]
+tags: [insect, amphibian, salamander, ephemeral pool, disease]
 image: images/IMG_4536-01-r-arrow-1.jpg
 description: Observations of a Water Strider scavenging on a dead Tiger Salamander larva. Udpate - this cattle tank has since tested positive for ranavirus, via eDNA testing.
 ---
