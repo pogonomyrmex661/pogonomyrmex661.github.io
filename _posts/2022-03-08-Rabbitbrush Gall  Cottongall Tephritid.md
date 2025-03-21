@@ -3,7 +3,7 @@ title: Rabbitbrush Gall - Cotton-gall Tephritid
 date: 2022-03-08 02:02:02 +0700
 categories: [gall]
 tags: [gall, plant, insect, fly]
-image: images/IMG_0768--1024x682.jpg
+image: images/IMG_0768-1024x682.jpg
 description: 
 ---
 
