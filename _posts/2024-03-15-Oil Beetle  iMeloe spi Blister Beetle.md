@@ -1,8 +1,8 @@
 ---
 title: Oil Beetle - <i>Meloe sp.</i> (Blister Beetle)
 date: 2024-03-15 02:02:02 +0700
-categories: [bees, beetle, blisterbeetle, insects, waspsandbees]
-tags: [bees, beetle, blisterbeetle, insect]
+categories: [bees, beetle, blister beetle, insects]
+tags: [bee, beetle, blister beetle, insect, hymenooptera]
 image: images/test_IMG_2484-g-feature.jpg
 description: 
 ---
@@ -93,10 +93,10 @@ _Hafernik, John, and LeslieSaul-Gershenz. 2000. [Beetle larvae cooperate to mimi
 
 _Eisner, Thomas and Edward O. Wilson. 2003. [For Love of Insects](https://www.amazon.com/Love-Insects-Thomas-Eisner/dp/0674011813). Belknap Press, First Edition (November 30, 2003). ISBN 0674011813._
 
-_Eisner, Thomas, Maria Eisner, Melody Siegler. 2007. [Secret Weapons: Defenses of Insects, Spiders, Scorpions and Other Many-Legged Creatures](https://www.amazon.com/Secret-Weapons-Scorpions-Many-Legged-Creatures/dp/0674024036). ‎ Belknap Press: An Imprint of Harvard University Press (April 30, 2007). 384 pages. ISBN ‎ 0674024036._
+_Eisner, Thomas, Maria Eisner, Melody Siegler. 2007. [Secret Weapons: Defenses of Insects, Spiders, Scorpions and Other Many-Legged Creatures](https://www.amazon.com/Secret-Weapons-Scorpions-Many-Legged-Creatures/dp/0674024036). Belknap Press: An Imprint of Harvard University Press (April 30, 2007). 384 pages. ISBN  0674024036._
 
 _Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
 
-Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://tightloop.com/blog/2024/03/15/oil-beetle-meloe-sp-blister-beetle/The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.
+Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://www.amazon.com/Beetles-Natural-History-Diversity-Coleoptera/dp/0228100690). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.
 
 _Wikipedia's entry on [Hypermetamorphosis](https://en.wikipedia.org/wiki/Hypermetamorphosis). Most helpful, as usual._

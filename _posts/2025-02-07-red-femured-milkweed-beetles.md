@@ -70,6 +70,6 @@ Eisner, Thomas, Maria Eisner, Melody Siegler. 2007. [Secret Weapons: Defenses of
 
 Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
 
-Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://tightloop.com/blog/2024/03/15/oil-beetle-meloe-sp-blister-beetle/The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.
+Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](hhttps://www.amazon.com/Beetles-Natural-History-Diversity-Coleoptera/dp/0228100690). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.
 
 Bugguide.net's [entry for Tentraopes](https://bugguide.net/node/view/2965) \- many thanks, again! Still!

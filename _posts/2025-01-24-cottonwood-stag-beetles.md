@@ -119,7 +119,7 @@ But still - that's what runs through my mind when I see the beetles staggering i
 
 _Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
 
-*Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://tightloop.com/blog/2024/03/15/oil-beetle-meloe-sp-blister-beetle/The Natural History and Diversity of Coleoptera). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.*
+*Marshall, Stephen A. 2018. [Beetles: The Natural History and Diversity of Coleoptera](https://www.amazon.com/Beetles-Natural-History-Diversity-Coleoptera/dp/0228100690). Firefly Books; Illustrated Edition (September 1, 2018). ISBN 0228100690.*
 
 *Dong, Xu-ming and Lu Jiang. 2024. [Species-specific larval acoustic behaviour of three stag beetles (Coleoptera: Lucanidae), with emphasis on their stridulatory organs and acoustic signals](https://www.sciencedirect.com/science/article/abs/pii/S1467803923000671). Arthropod Structure and Development. Vol. 80. May 2024.*
 
