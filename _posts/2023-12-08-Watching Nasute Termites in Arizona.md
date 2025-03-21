@@ -2,7 +2,7 @@
 title: Watching Nasute Termites in Arizona
 date: 2023-12-08 02:02:02 +0700
 categories: [termite]
-tags: [termite]
+tags: [termite, insect]
 image: images/CRW_2971-02-r.jpg
 description: Watching and photographing Nasute Termites in Arizona.
 ---

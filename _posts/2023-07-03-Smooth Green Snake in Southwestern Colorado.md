@@ -1,7 +1,7 @@
 ---
 title: Smooth Green Snake in Southwestern Colorado
 date: 2023-07-03 02:02:02 +0700
-categories: [colorado, snakes]
+categories: [snake]
 tags: [colorado, reptile, snake]
 image: images/20230629_083316-r.jpg
 description: Laurie and I were out walking along the Dolores River a couple of days ago. We were on our way back when Laurie noticed a snake stretched across the trail. The snake was a such a bright green color that…

@@ -1,8 +1,8 @@
 ---
 title: Spring 2023 - Mourning Cloaks and Chorus Frogs
 date: 2023-04-09 02:02:02 +0700
-categories: [toad, mothsandbutterflies]
-tags: [butterfliesandmoths, toad]
+categories: [frog]
+tags: [frog, amphibian, butterfly, insect, hymenoptera]
 image: images/IMG_0638.jpg
 description: It’s April 9th, 2023 – Happy Eostre Day. At this time last week we were having snow, wind and rain here in Southwestern Colorado. Now the snow is gone, and it finally feels like Spring is here. I saw my…
 ---

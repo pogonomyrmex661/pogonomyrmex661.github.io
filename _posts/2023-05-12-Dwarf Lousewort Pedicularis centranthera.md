@@ -1,8 +1,8 @@
 ---
 title: Dwarf Lousewort (Pedicularis centranthera)
 date: 2023-05-12 02:02:02 +0700
-categories: [colorado, plants]
-tags: [colorado, plant]
+categories: [plant]
+tags: [plant]
 image: images/IMG_1135-2r.jpg
 description: In the Spring of last year (late May of 2022) I was hiking through an old Pinyon-Juniper forest here in Southwestern Colorado. This was at about 6500′ of elevation. I kept seeing an odd ooking plant, usually growing beneath Juniper…
 ---

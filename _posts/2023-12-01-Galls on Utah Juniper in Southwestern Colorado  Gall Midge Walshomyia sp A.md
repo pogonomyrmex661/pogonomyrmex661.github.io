@@ -1,8 +1,8 @@
 ---
 title: Galls on Utah Juniper in Southwestern Colorado - Gall Midge (Walshomyia sp A)
 date: 2023-12-01 02:02:02 +0700
-categories: [fly, galls, plants]
-tags: [colorado, galls, insect]
+categories: [gall]
+tags: [gall, insect, fly]
 image: images/IMG_2014-r.jpg
 description: I’ve seen these strange flower-like growths on Utah Junipers here in Southwestern Colorado for years, but have not known what they were. I assumed they were galls, but was having a heck of a time figuring out what type of…
 ---

@@ -1,8 +1,8 @@
 ---
 title: Cannon Ball Mesa Ruins
 date: 2017-09-07 02:02:02 +0700
-categories: [ruinsandpetroglyphs, colorado, funtrips]
-tags: [ruins]
+categories: [archaeology]
+tags: [archaeology, ruins]
 image: images/IMG_7663.jpg
 description: One of my favorite local ruins sites is at Cannonball Mesa. Laurie and I were unaware of the site when we first moved to this area. We stumbled upon the ruins when we were out hiking, and it was quite a…
 ---

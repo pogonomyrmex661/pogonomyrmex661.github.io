@@ -1,7 +1,7 @@
 ---
 title: Yellow Jacket Pueblo
 date: 2017-10-14 02:02:02 +0700
-categories: [archaeology, ruins]
+categories: [archaeology]
 tags: [ruins, archaeology, colorado]
 image: images/IMG_8929.jpg
 description: A few weeks ago, I went on a tour of the Yellow Jacket Pueblo site. The site is owned by The Archaeological Conservancy, an organization that purchases and preserves archaeological sites. As far as I can tell, they are sort-of like…

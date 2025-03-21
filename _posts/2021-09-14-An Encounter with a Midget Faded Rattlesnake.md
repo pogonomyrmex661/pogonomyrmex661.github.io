@@ -1,7 +1,7 @@
 ---
 title: An Encounter with a Midget Faded Rattlesnake
 date: 2021-09-14 02:02:02 +0700
-categories: [snakes, utah]
+categories: [snakes]
 tags: [reptile, snake, utah]
 image: images/IMG_0930-scaled.jpg
 description: 

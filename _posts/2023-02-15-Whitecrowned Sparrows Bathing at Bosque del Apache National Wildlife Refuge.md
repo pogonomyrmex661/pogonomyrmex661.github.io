@@ -1,8 +1,8 @@
 ---
 title: White-crowned Sparrows Bathing at Bosque del Apache National Wildlife Refuge
 date: 2023-02-15 02:02:02 +0700
-categories: [birds, bosquedelapache, sparrows]
-tags: [birds, bosquedelapache, sparrow]
+categories: [bird]
+tags: [bird, bosque del apache, sparrow]
 image: images/IMG_2344.jpg
 description: I made a visit to Bosque del Apache National Wildlife Refuge a couple of months ago (mid-December, 2022). I went primarily to take photos of Sandhill Cranes and Snow Geese. Funnily enough, some of my favorite trip photos fwere of other species. Here is one set of them - this series of White-crowned Sparrows in one Refuge's irrigation canals.
 ---

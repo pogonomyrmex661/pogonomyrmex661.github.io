@@ -1,8 +1,8 @@
 ---
 title: Oil Beetle - <i>Meloe sp.</i> (Blister Beetle)
 date: 2024-03-15 02:02:02 +0700
-categories: [bees, beetle, blister beetle, insects]
-tags: [bee, beetle, blister beetle, insect, hymenooptera]
+categories: [beetle]
+tags: [bee, beetle, blister beetle, insect, hymenoptera]
 image: images/test_IMG_2484-g-feature.jpg
 description: 
 ---

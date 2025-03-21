@@ -1,7 +1,8 @@
 ---
 title: Watching Red Fox Kits
 date: 2023-04-25 02:02:02 +0700
-categories: [fox, portfolio]
+categories: [fox]
+tags: [fox, mammal]
 image: images/IMG_3296-r.jpg
 description: We were driving along the road yesterday and happened to notice a commotion in one of the roadside Prairie Dog villages. It was a pair of Fox kits, rolling and playing in the sunshine. We watched a little bit longer.…
 ---

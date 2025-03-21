@@ -1,8 +1,8 @@
 ---
 title: Elk Hunting and Potsherds
 date: 2017-08-12 02:02:02 +0700
-categories: [ruinsandpetroglyphs, colorado, funtrips, stories]
-tags: [stories]
+categories: [stories]
+tags: [stories, archaeology]
 image: images/18920712_10212810887010161_1285847254785894414_n.jpg
 description: It’s a little after noon, I’m sitting in the bottom of Hovenweep canyon with my rifle, waiting for dusk. Sunset is supposed to be at 4:51 pm. So I’ve got some time.
 ---

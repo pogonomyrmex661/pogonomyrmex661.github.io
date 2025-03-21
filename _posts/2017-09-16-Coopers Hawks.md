@@ -1,8 +1,8 @@
 ---
 title: Cooper's Hawks
 date: 2017-09-16 02:02:02 +0700
-categories: [hawk, story]
-tags: [hawk, bird]
+categories: [hawk]
+tags: [hawk, bird, coopers hawk, accipiter]
 image: images/coops.jpg
 description: An appreciation of Cooper's Hawks
 

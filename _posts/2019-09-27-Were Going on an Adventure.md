@@ -1,8 +1,8 @@
 ---
 title: We’re Going on an Adventure!
 date: 2019-09-27 02:02:02 +0700
-categories: [art, corvids]
-tags: [art, birds, ravens]
+categories: [art]
+tags: [art, bird, raven]
 image: images/959787DD-FE6A-4A80-8CA7-32A2085C8696-1024x680.jpeg
 description: In which we hit the road, and think about slime molds and Adrian Tchaikovsky's "Children of Ruin".
 ---

@@ -1,8 +1,8 @@
 ---
 title: Castle Rock Pueblo - Sand Canyon
 date: 2017-08-15 02:02:02 +0700
-categories: [ruinsandpetroglyphs, colorado, funtrips]
-tags: [ruins, colorado]
+categories: [archaeology]
+tags: [ruins, archaeology, colorado]
 image: images/IMG_0801-r.jpg
 description: One of the high points of a visit to Cortez, Colorado is seeing Sand Canyon. It’s a wonderful spot to visit. It’s got spectacular views and lots of ruins, along with great horse, biking, and hiking trails. Castle Rock is…
 ---

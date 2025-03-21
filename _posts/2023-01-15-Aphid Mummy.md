@@ -1,7 +1,7 @@
 ---
 title: Aphid Mummy
 date: 2023-01-15 02:02:02 +0700
-categories: [aphid, wasp]
+categories: [wasp]
 tags: [aphid, parasite, wasp, hymenoptera, insect]
 image: images/IMG_0683.jpg
 description: Here’s a photo of a a couple of Aphids on a Brittlebush leaf, taken in Tucson, Arizona, in March of 2004. The Aphid in the foreground is smaller, darker, and you can see that there’s a shed skin on the…
