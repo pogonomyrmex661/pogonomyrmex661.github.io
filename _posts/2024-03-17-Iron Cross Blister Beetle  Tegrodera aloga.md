@@ -1,7 +1,7 @@
 ---
 title: Iron Cross Blister Beetle - Tegrodera aloga
 date: 2024-03-17 02:02:02 +0700
-categories: [beetle, blisterbeetle, insects]
+categories: [beetle]
 tags: [beetle, blister beetle, insect, bee, hymenoptera]
 image: images/aaa-CRW_1943-g.jpg
 description: Here are photos of a gorgeous Iron Cross Blister Beetle (Tegrodera aloga) that I saw one afternoon in Tucson. This was in early May of 2005, on the Cactus Forest Loop of Saguaro National Park East, at perhaps 3000′ elevation.…
