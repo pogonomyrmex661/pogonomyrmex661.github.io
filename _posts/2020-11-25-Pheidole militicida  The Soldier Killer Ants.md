@@ -1,5 +1,5 @@
 ---
-title: Pheidole militicida - The \Soldier Killer\ Ants
+title: Pheidole militicida - The "Soldier Killer" Ants
 date: 2020-11-25 02:02:02 +0700
 categories: [ant]
 tags: [ant, insect, hymenoptera]
