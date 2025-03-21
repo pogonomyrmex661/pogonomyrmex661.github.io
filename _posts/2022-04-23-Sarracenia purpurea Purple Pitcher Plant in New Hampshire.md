@@ -96,7 +96,7 @@ Sources:
 
 _Bauer U, Federle W, Seidel H, Ulmar Grafe T, Ioannou C. 2014. [How to catch more prey with less effective traps: explaining the evolution of temporarily inactive traps in carnivorous pitcher plants](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2014.2675). Proceedings Royal Society of Botany 282:20142675._
 
-_Heard, Stephen B. 1998. [Capture Rates of Invertebrate Prey by the Pitcher Plant, Sarracenia purpurea L](http://www2.unb.ca/~sheard/pdfs/1998_pitcher_plant_prey.pdf). American Midland Naturalist 139:79-89._
+_Heard, Stephen B. 1998. [Capture Rates of Invertebrate Prey by the Pitcher Plant, Sarracenia purpurea L](https://www2.unb.ca/~sheard/pdfs/1998_pitcher_plant_prey.pdf). American Midland Naturalist 139:79-89._
 
 _Newell, S and Nastase, A. 1998. [Efficiency of insect capture by Sarracenia purpurea (Sarraceniaceae), the northern pitcher plant](https://pubmed.ncbi.nlm.nih.gov/21684883/). American Journal of Botany. 85(1):88._
 
