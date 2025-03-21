@@ -36,8 +36,9 @@ So it was a real treat to go up into the Forest and find this little Frog.
 Addendum:
 
 Here's a video from this Spring of a pond up on the Forest. You can hear a few Chorus Frogs calling.
+{% include youtube_embed.html id="8ZhMjqrtgRI" %}  
 
-![picture]()
+
 *A pond up on the San Juan National Forest. You can't actually _see_ the Chorus Frogs in this video, but you can hear them calling.*
 
 I've heard the sound described as similar to somebody dragging their thumbnail across the tines of a comb. Good description!
