@@ -3,7 +3,7 @@ title: Painted Desert Raven
 date: 2022-12-26 02:02:02 +0700
 categories: [art]
 tags: [art, raven, corvid, bird]
-image: DD26E73D-67C8-45AA-AA2D-181474A11A08.jpeg
+image: images/DD26E73D-67C8-45AA-AA2D-181474A11A08.jpeg
 description: About a decade ago, I was making regular trips to Phoenix for family reasons. It was about a six, maybe seven hour drive each way. I did the trip so often that think I’d I had nearly worn grooves into…
 ---
 
