@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 ![me](images/C2CBBC65-409B-42EA-90F5-77E471B030EA-1024x683.jpeg)
