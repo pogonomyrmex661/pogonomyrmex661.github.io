@@ -46,7 +46,7 @@ The site was occupied until about 1280 AD - roughly the time at which the nearby
 This was one of the first sites in our area to be excavated. The excavation was done by Sylvanus Morley in 1908. I'm not sure whether or not he backfilled the ruins, but somebody had. The excavated below-ground kivas had been filled in with dirt, a good way to preserve them. At least one of the skeletons Dr. Morley excavated had an old, partially healed skull injury that looked like it had been inflicted with a sharp object. Stone axe, maybe?
 
 
-![picture](images/images/IMG_7675-1.jpg)
+![picture](images/IMG_7675-1.jpg)
 *Looking down Cannonball Canyon and into Yellowjacket Canyon, with the ruins behind me.*
 
 
