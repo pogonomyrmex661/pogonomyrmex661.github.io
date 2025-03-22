@@ -4,13 +4,12 @@ date: 2021-01-09 02:02:02 +0700
 categories: [parasite]
 tags: [worm, invertebrate, parasite]
 image: images/DSCN9745.jpg
-description: A bunch of times over the years I’ve seen long worms in puddles and temporary pools. The worms will be white or brown, and ranging in size from six inches or so up to around ten inches. The worms moved…
+description:
 ---
 
+A bunch of times over the years I've seen long worms in puddles and temporary pools. The worms will be white or brown, and ranging in size from six inches or so up to around ten inches.
 ![picture](images/DSCN9745-1024x768.jpg)
 *Horsehair worm in ephemeral pool with oak overstory. Gardner Canyon, Santa Rita Mtns (2002-09-01)*
-
-A bunch of times over the years I've seen long worms in puddles and temporary pools. The worms will be white or brown, and ranging in size from six inches or so up to around ten inches.
 
 The worms moved slowly if they moved at all, so that I would sometimes wonder if they really were worms or just pieces of detritus. They also had a tough, wirey texture to them, not like a 'normal' worm at all.
 
