@@ -4,11 +4,11 @@ date: 2021-07-29 02:02:02 +0700
 categories: [invertebrates]
 tags: [ephemeral pool, invertebrate, triops, tadpole shrimp, clam shrimp, ostracod]
 image: images/4935F1FA-BA98-4BF2-A24E-8FD1F91C55A2.jpeg
-description: Watching Tadpole Shrimp and Clam Shrimp in desert pools of Southwestern Colorado
+description: 
 ---
+It's July 29, 2021, and we've had pretty good monsoons here in Southwestern Colorado. The water often brings interesting creatures out of hiding, as they try to breed before the moisture disappears.  And so, with a heart full of hope and  a desert full of water, my Trusty Hound and I went out into the Canyons of the Ancients  to see what we could see.
 
 [![](images/4935F1FA-BA98-4BF2-A24E-8FD1F91C55A2.jpeg)](https://tightloop.com/blog/wp-content/uploads/2021/09/4935F1FA-BA98-4BF2-A24E-8FD1F91C55A2.jpeg)  
-It's July 29, 2021, and we've had pretty good monsoons here in Southwestern Colorado. The water often brings interesting creatures out of hiding, as they try to breed before the moisture disappears.  And so, with a heart full of hope and  a desert full of water, my Trusty Hound and I went out into the Canyons of the Ancients  to see what we could see.
 
 We came across a small puddle in the bottom of a cattle tank. It had been bone-dry  just a few weeks previously. Was there anything in it? We got out of the jeep to have a look.
 
