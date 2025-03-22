@@ -4,17 +4,15 @@ date: 2022-07-05 02:02:02 +0700
 categories: [salamander]
 tags: [invertebrate, parasite, salamander]
 image: images/IMG_6953.jpg
-description: I made another visit to my Tiger Salamander Tank on the San Juan National Forest, in Southwestern Colorado. I’ve seen Leeches on the Tiger Salamander larvae on some of my previous visits and I wanted to see if I could…
+description: 
 ---
+
+I made another visit to my Tiger Salamander Tank on the San Juan National Forest, in Southwestern Colorado. I've seen Leeches on the Tiger Salamander larvae on some of my previous visits and I wanted to see if I could get a better look at the them. I had very little experience in identifying Leeches, so this was going to be interesting. Okay...that was an exaggeration. I had _no_ experience in identifying Leeches.
 
 ![picture](https://tightloop.com/blog/wp-content/uploads/2022/07/IMG_6953-1024x605.jpg?v=1657053768)
 *Nine _Ambystoma tigrinum_ larvae in glass observation aquarium*
 
-I made another visit to my Tiger Salamander Tank on the San Juan National Forest, in Southwestern Colorado. I've seen Leeches on the Tiger Salamander larvae [on some of my previous visits](https://tightloop.com/blog/2022/06/13/late-spring-colorado-tiger-salamander-tank/) and I wanted to see if I could get a better look at the them. I had very little experience in identifying Leeches, so this was going to be interesting. Okay...that was an exaggeration. I had _no_ experience in identifying Leeches.
-
 I caught nine of the Tiger Salamander larvae and put them into a glass observation aquarium for photography.
-
-<!--more-->
 
 The Leeches were surprisingly common on the Salamanders. On the nine Salamanders, I found four Leeches.
 
