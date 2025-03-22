@@ -4,7 +4,7 @@ date: 2019-08-06 02:02:02 +0700
 categories: [salamander]
 tags: [amphibian, art, disease, salamander]
 image: images/065F6BA8-42B7-4B89-99EF-E95431FD4753.jpeg
-description: A Tiger Salamander Die-off and Ranavirus
+description: A Local Tiger Salamander Die-off and Ranavirus
 ---
 
 ![picture](images/065F6BA8-42B7-4B89-99EF-E95431FD4753-1024x675.jpeg)
@@ -13,8 +13,6 @@ description: A Tiger Salamander Die-off and Ranavirus
 Over the last month or so, I've been looking for more Tiger Salamander populations. One of the new Salamander ponds I've found is close to home, so I've been able to visit it repeatedly.
 
 It's a fascinating spot.
-
-<!--more-->
 
 ![picture](images/37F90368-2ADC-47FA-BACC-9BED87948258-1024x598.jpeg)
 *Cattle tank on the nearby San Juan National Forest. This is at the start of a big algal bloom.*

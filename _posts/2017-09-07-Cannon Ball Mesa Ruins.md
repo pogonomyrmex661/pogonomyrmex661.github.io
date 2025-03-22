@@ -4,7 +4,7 @@ date: 2017-09-07 02:02:02 +0700
 categories: [archaeology]
 tags: [archaeology, ruins]
 image: images/IMG_7663.jpg
-description: One of my favorite local ruins sites is at Cannonball Mesa. Laurie and I were unaware of the site when we first moved to this area. We stumbled upon the ruins when we were out hiking, and it was quite a…
+description: 
 ---
 
 One of my favorite local ruins sites is at Cannonball Mesa.
@@ -13,7 +13,6 @@ Laurie and I were unaware of the site when we first moved to this area. We stum
 
 \[caption id="attachment\_534" align="aligncenter" width="600"\][![](images/IMG_7663-300x209.jpg)](https://tightloop.com/blog/wp-content/uploads/2017/09/IMG_7663.jpg) Ruin on the rimrock. You can see that the ground is littered with rubble from other ruins.\[/caption\]
 
-<!--more-->
 
 The road up to the Cannonball Mesa is west of the lower Sand Canyon trailhead, and is a little bit rough. I thought this would be a fine trip for the jeep. So, on a hot September day, I packed my camera and headed out for McElmo Canyon and Cannonball Mesa.
 

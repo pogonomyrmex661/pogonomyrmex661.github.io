@@ -7,10 +7,10 @@ image: images/jpgaa-IMG_8523-g-r.jpg
 description: 
 ---
 
+I spent a fair amount of time last Summer watching the insects on our garden flowers. Some of my favorite insects were the Green Soldier Flies (_Hedriodiscus sp_). These flies were active for much of the Summer - from at least mid-June through late August.
+
 ![picture](images/aa-IMG_8523_02_f-g-r-1.jpg)
 *Green Soldier Fly (_Hedriodiscus sp._) drinking nectar from Parsley flowers*
-
-I spent a fair amount of time last Summer watching the insects on our garden flowers. Some of my favorite insects were the Green Soldier Flies (_Hedriodiscus sp_). These flies were active for much of the Summer - from at least mid-June through late August.
 
 ![picture](images/aa-IMG_8524_f-g-r.jpg)
 *Side view of a Green Soldier Fly (_Hedriodiscus sp_.) on a parsley flower.*

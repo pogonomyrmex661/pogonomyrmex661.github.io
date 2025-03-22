@@ -6,11 +6,10 @@ tags: [bird, wasp, insect, hymenoptera]
 description: Nesting Barn Swallows destroy a Bald-faced Hornet nest.
 image: images/2012-08-19-Cortez-horses-104.jpg
 ---
+Most Summers, we'll get several pairs of Barn Swallows nesting in the garage. They'll raise young in the Spring, and then perhaps try for a second clutch later in the Summer. There are usually a couple of weeks in the Summer when there are fledgling Barn Swallows hopping around the garage, getting into trouble.
 
 ![Barn swallows](images/IMG_3202.jpg "Barn swallows")
 *Barn Swallows perched on a power line outside our house.*
-
-Most Summers, we'll get several pairs of Barn Swallows nesting in the garage. They'll raise young in the Spring, and then perhaps try for a second clutch later in the Summer. There are usually a couple of weeks in the Summer when there are fledgling Barn Swallows hopping around the garage, getting into trouble.
 
 It is a vastly entertaining time of year.
 

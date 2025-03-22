@@ -3,14 +3,14 @@ title: Travels, Galaxies and Ants
 date: 2025-01-26 02:11:12 +0700
 categories: [art]
 tags: [art, ant]    
-description: Painting with Tooli Acrylic pens
+description:
 image: images/color-ant-r-1.jpg
 ---
 
+Here’s a drawing I did a couple of months ago. I was playing with some Tooli Acrylic Markers that I had bought up at the Art Supply House in Durango. I’ve mostly been a colored-pencil-and-watercolor guy, so using acrylics was a whole new world to me. The colors were so saturated, so opaque!
+
 ![ant painting](images/color-ant-r-1.jpg "Desert Tortoise painting")
 *Travels, Galaxies and Ant. Inspired by petroglyphs, social insects and images from the Hubble Space Telescope. Acrylic markers on toned paper.*
-
-Here’s a drawing I did a couple of months ago. I was playing with some Tooli Acrylic Markers that I had bought up at the Art Supply House in Durango. I’ve mostly been a colored-pencil-and-watercolor guy, so using acrylics was a whole new world to me. The colors were so saturated, so opaque!
 
 Problem was, though – I couldn’t figure out how blend the pen colors, how to show a gradual transition from one color to another. Watercolors and gouache re-activate when you wet them, so you can mix the colors after you lay them down. Not so with acrylics. You’d need to mix the paints when they were wet, or figure out a way to paint a thinned paint over the base coat to get a glaze. And I’m not sure how to do either with markers.
 

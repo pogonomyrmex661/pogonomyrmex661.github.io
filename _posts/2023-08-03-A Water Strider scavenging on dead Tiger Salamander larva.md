@@ -6,11 +6,10 @@ tags: [insect, amphibian, salamander, ephemeral pool, disease]
 image: images/IMG_4536-01-r-arrow-1.jpg
 description: Observations of a Water Strider scavenging on a dead Tiger Salamander larva. Udpate - this cattle tank has since tested positive for ranavirus, via eDNA testing.
 ---
+Here's something I've not seen before - a Water Strider scavenging on a dead Tiger Salamander larva.
 
 ![picture](images/IMG_4536_01-r-1024x824.jpg)
 *Water Strider scavenging on dead Ambystoma Salamander*
-
-Here's something I've not seen before - a Water Strider scavenging on a dead Tiger Salamander larva.
 
 I was photographing Tiger Salamander larvae at one of my local ponds a couple of days ago (2023-07-31). This site is in a Ponderosa Pine forest in Southwestern Colorado, at about 7800'. There were a lot of Salamander larvae in the pond, and they mostly looked pretty good - swimming, foraging, etc.
 

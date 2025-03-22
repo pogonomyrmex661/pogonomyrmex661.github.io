@@ -4,13 +4,13 @@ date: 2023-07-03 02:02:02 +0700
 categories: [snake]
 tags: [colorado, reptile, snake]
 image: images/20230629_083316-r.jpg
-description: Laurie and I were out walking along the Dolores River a couple of days ago. We were on our way back when Laurie noticed a snake stretched across the trail. The snake was a such a bright green color that…
+description: 
 ---
+
+Laurie and I were out walking along the Dolores River a couple of days ago. We were on our way back when Laurie noticed a snake stretched across the trail. The snake was a such a bright green color that it seemed to glow.
 
 ![picture](images/20230629_083145-r.jpg)
 *Smooth Green Snake (_Opheodrys vernalis_) in the dust and gravel of the trail*
-
-Laurie and I were out walking along the Dolores River a couple of days ago. We were on our way back when Laurie noticed a snake stretched across the trail. The snake was a such a bright green color that it seemed to glow.
 
 It was a Smooth Green Snake - _Opheodrys vernalis_.
 

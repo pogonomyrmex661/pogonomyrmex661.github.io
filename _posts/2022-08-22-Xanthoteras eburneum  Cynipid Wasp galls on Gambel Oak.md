@@ -4,12 +4,12 @@ date: 2022-08-22 02:02:02 +0700
 categories: [gall]
 tags: [gall, insect, wasp, hymenoptera]
 image: images/6745CE01-8332-438B-A3D3-E7C1A60D700F.jpeg
-description: I was on a hike the other day in a Ponderosa Pine forest in Southwestern Colorado, at about 7000′. There were a number of small Gambel Oak seedlings in the trail, and some of their leaves had a line of…
+description: 
 ---
 
-\[caption id="attachment\_272946" align="alignnone" width="2048"\][![](images/6745CE01-8332-438B-A3D3-E7C1A60D700F.jpeg)](https://tightloop.com/blog/wp-content/uploads/2022/08/6745CE01-8332-438B-A3D3-E7C1A60D700F.jpeg) _Xanthoteras eburneum_ gall on Gambel Oak leaf\[/caption\]
-
 I was on a hike the other day in a Ponderosa Pine forest in Southwestern Colorado, at about 7000'. There were a number of small Gambel Oak seedlings in the trail, and some of their leaves had a line of swollen objects stuck to their leaves.
+
+\[caption id="attachment\_272946" align="alignnone" width="2048"\][![](images/6745CE01-8332-438B-A3D3-E7C1A60D700F.jpeg)](https://tightloop.com/blog/wp-content/uploads/2022/08/6745CE01-8332-438B-A3D3-E7C1A60D700F.jpeg) _Xanthoteras eburneum_ gall on Gambel Oak leaf\[/caption\]
 
 The objects were about 5 mm across, and a sort of oval shape.  They were mostly growing on the upper side of the leaves, and mostly along the mid-vein of the leaves. The colors of the objects varied from brown, to orange, to red.
 

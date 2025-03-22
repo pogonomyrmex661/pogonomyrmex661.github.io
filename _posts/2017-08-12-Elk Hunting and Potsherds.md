@@ -4,10 +4,11 @@ date: 2017-08-12 02:02:02 +0700
 categories: [stories]
 tags: [stories, archaeology]
 image: images/18920712_10212810887010161_1285847254785894414_n.jpg
-description: It’s a little after noon, I’m sitting in the bottom of Hovenweep canyon with my rifle, waiting for dusk. Sunset is supposed to be at 4:51 pm. So I’ve got some time.
+description:
 ---
+It's a little after noon, I'm sitting in the bottom of Hovenweep canyon with my rifle, waiting for dusk. Sunset is supposed to be at 4:51 pm. So I've got some time.
 
-![](images/18920712_10212810887010161_1285847254785894414_n-225x300.jpg)It's a little after noon, I'm sitting in the bottom of Hovenweep canyon with my rifle, waiting for dusk. Sunset is supposed to be at 4:51 pm. So I've got some time.<!--more-->
+![](images/18920712_10212810887010161_1285847254785894414_n-225x300.jpg)It's a little after noon, I'm sitting in the bottom of Hovenweep canyon with my rifle, waiting for dusk. Sunset is supposed to be at 4:51 pm. So I've got some time.
 
 I'm set up in a scraggly stand of junipers, w the breeze blowing into my face.  I've got a good view of a sage flat near where I saw them last year. It's about 300 yards across the flat, so I'm hoping that if they come, they will be near the middle of the flat. It is probably a good thing you talked me out of bringing the 45-70. The country gets big fast here.
 

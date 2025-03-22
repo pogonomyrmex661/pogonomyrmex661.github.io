@@ -7,7 +7,7 @@ image: images/510C0E85-2465-4A0C-8230-D9EE0E6EB6FF-1.jpg
 description: An account of a visit from a Cooper's Hawk'
 ---
 
-![picture](https://tightloop.com/blog/wp-content/uploads/2017/09/510C0E85-2465-4A0C-8230-D9EE0E6EB6FF-1.jpg?v=1633377132)
+![picture](https://tightloop.com/blog/wp-content/uploads/2017/09/510C0E85-2465-4A0C-8230-D9EE0E6EB6FF-1.jpg)
 *Cooper's Hawk in a Hawthorn Tree*
 
 When I walked out to get the mail a few weeks ago, a Cooper's Hawk flew over the house, then low over my head. He landed in a Hawthorn sapling in the front yard.

@@ -3,14 +3,14 @@ title: Red-femured Milkweed Beetles and Showy Milkweed
 date: 2025-02-07 +0700
 categories: [photo]
 tags: [insect, beetle, plant]    
-description: Watching and photographing Red-femured Milkweed Beetles on Showy Milkweed
+description: 
 image: images/aa-IMG_1180_01_f-g-r.jpg
 ---
+In the Spring of 2024, a mountain lion killed a deer down by the creek near our house. I’d visit the site every couple of weeks, watching to see what happened to the carcass and checking out any interesting tracks. By late July, the deer carcass was mostly bones and dried deer skin. The deer was hard to find, because it was mostly hidden by a growth of Showy Milkweed (Asclepias speciosa) plants.
 
 ![Red-femured Milkweed Beetle](images/aa-IMG_1180_01_f-g-r.jpg) Red-femured Milkweed Beetle on Showy Milkweed leaf)
 *Red-femured Milkweed Beetle (Tetraopes femoratus) on a Showy Milkweed leaf. You can see the source of the ‘four-eyes’ part of its genus name comes from – it’s got four eyes!*
 
-In the Spring of 2024, a mountain lion killed a deer down by the creek near our house. I’d visit the site every couple of weeks, watching to see what happened to the carcass and checking out any interesting tracks. By late July, the deer carcass was mostly bones and dried deer skin. The deer was hard to find, because it was mostly hidden by a growth of Showy Milkweed (Asclepias speciosa) plants.
 
 And the Milkweed had some beautiful red and black-spotted beetles feeding on it.
 

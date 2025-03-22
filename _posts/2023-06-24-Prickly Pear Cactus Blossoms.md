@@ -4,13 +4,13 @@ date: 2023-06-24 02:02:02 +0700
 categories: [plants]
 tags: [cactus, plant]
 image: images/IMG_1608-r.jpg
-description: I was hiking on one of my favorite trails around Cortez, Colorado this week and came across a strange sight. There were what appeared to be low-growing Rose gardens underneath the Juniper trees. The contrast of the pink, yellow and…
+description:
 ---
+
+I was hiking on one of my favorite trails around Cortez, Colorado this week and came across a strange sight. There were what appeared to be low-growing Rose gardens underneath the Juniper trees. The contrast of the pink, yellow and red flowers with the dry duff and dust of the desert floor seemed surreal.
 
 ![picture](images/IMG_1608-r-1024x844.jpg)
 *Prickly Pear Cactus flowers growing in a space between the Juniper Trees, Southwestern Colorado.*
-
-I was hiking on one of my favorite trails around Cortez, Colorado this week and came across a strange sight. There were what appeared to be low-growing Rose gardens underneath the Juniper trees. The contrast of the pink, yellow and red flowers with the dry duff and dust of the desert floor seemed surreal.
 
 The Prickly Pear Cactus were in bloom!
 

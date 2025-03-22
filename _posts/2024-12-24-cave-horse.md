@@ -3,14 +3,15 @@ title: "Cave Art Horse"
 date: 2019-10-10 02:11:12 +0700
 categories: [art]
 tags: [art, horse]    
-description: A felted wool sculpture by Heather Aquarius
+description: 
 image: images/aa-IMG_5714-g-r-1.jpg
 ---
+
+I've had the good fortune to see and photograph some of the felted wool sculptures done by the Colorado artist Heather Aquarius. I thought this one was especially striking. It's a felted wool sculpture of a "cave art horse".
 
 ![Cave Horse Sculpture](images/aa-IMG_5714-g-r-1.jpg "Cave Horse sculpture")
 *A felted-wool horse sculpture by Heather Aquarius. The horse sculpture was inspired by cave paintings from the Lascaux Cave, and the background of this photograph is a print of a paleolithic painting from the Chauvet Cave.*
 
-I've had the good fortune to see and photograph some of the felted wool sculptures done by the Colorado artist Heather Aquarius. I thought this one was especially striking. It's a felted wool sculpture of a "cave art horse".
 
 ![Cave Horse Sculpture](images/aa-IMG_5743-g-r2.jpg "Cave Horse sculpture")
 *Wool felted Cave Horse sculpture, in a Colorado morning sunrise. Sculpture by the artist Heather Aquarius. *

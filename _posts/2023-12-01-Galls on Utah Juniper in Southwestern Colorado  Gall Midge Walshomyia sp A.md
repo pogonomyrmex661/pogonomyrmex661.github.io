@@ -4,13 +4,15 @@ date: 2023-12-01 02:02:02 +0700
 categories: [gall]
 tags: [gall, insect, fly]
 image: images/IMG_2014-r.jpg
-description: I’ve seen these strange flower-like growths on Utah Junipers here in Southwestern Colorado for years, but have not known what they were. I assumed they were galls, but was having a heck of a time figuring out what type of…
+description: 
 ---
+
+I've seen these strange flower-like growths on Utah Junipers here in Southwestern Colorado for years, but have not known what they were. I assumed they were galls, but was having a heck of a time figuring out what _type_ of gall they were. 
 
 ![picture](images/IMG_2006-r.jpg)
 *_Walshomyia Sp A_ galls on Utah Juniper twig, with my hand for scale. The blue-gray spheres to the right of the galls are normal Juniper berries.*
 
-I've seen these strange flower-like growths on Utah Junipers here in Southwestern Colorado for years, but have not known what they were. I assumed they were galls, but was having a heck of a time figuring out what _type_ of gall they were. Finally, browsing Ronald Russo's fine book [Plant Galls of the Western United States](https://www.amazon.com/Western-United-States-Princeton-Guides/dp/0691205760?psc=1), I found a good match.
+Finally, browsing Ronald Russo's fine book [Plant Galls of the Western United States](https://www.amazon.com/Western-United-States-Princeton-Guides/dp/0691205760?psc=1), I found a good match.
 
 These galls were probably caused by a Gall Midge - namely, _Walshomyia sp A_.
 

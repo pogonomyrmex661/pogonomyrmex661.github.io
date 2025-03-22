@@ -4,13 +4,13 @@ date: 2023-01-15 02:02:02 +0700
 categories: [wasp]
 tags: [aphid, parasite, wasp, hymenoptera, insect]
 image: images/IMG_0683.jpg
-description: Here’s a photo of a a couple of Aphids on a Brittlebush leaf, taken in Tucson, Arizona, in March of 2004. The Aphid in the foreground is smaller, darker, and you can see that there’s a shed skin on the…
+description:
 ---
+Here's a photo of a a couple of Aphids on a Brittlebush leaf, taken in Tucson, Arizona, in March of 2004. The Aphid in the foreground is smaller, darker, and you can see that there's a shed skin on the leaf behind her.
 
 ![picture](images/IMG_0683.jpg)
 *Two Aphids on a Brittlebush leaf - Tucson, 2004. The light colored, larger, globose Aphid at the back is an "Aphid Mummy" - parasitized by a Braconid Wasp. Tucson, 2004.*
 
-Here's a photo of a a couple of Aphids on a Brittlebush leaf, taken in Tucson, Arizona, in March of 2004. The Aphid in the foreground is smaller, darker, and you can see that there's a shed skin on the leaf behind her.
 
 The interesting thing about this photo is the other Aphid, the large, round, light colored one. It's an "Aphid Mummy". A small Wasp laid an egg in this Aphid. The Wasp larva grew, eating the Aphid from the inside. Finally, the Aphid died, and the Wasp pupated inside the Aphid.
 

@@ -4,7 +4,7 @@ date: 2023-02-11 02:02:02 +0700
 categories: [caterpillar]
 tags: [caterpillar, moth, tree, plant, insect]
 image: images/IMG_9155.jpg
-description: In mid-June of 2021, I was hiking along a river in Colorado’s San Juan Mountains. Their were Aspens trees lining the trail. The sun shone through the Aspen leaves, making them glow. It was very pretty, and I stopped to…
+description:
 ---
 
 In mid-June of 2021, I was hiking along a river in Colorado's San Juan Mountains. Their were Aspens trees lining the trail. The sun shone through the Aspen leaves, making them glow. It was very pretty, and I stopped to look at the leaves. As I looked, I noticed that some of the leaves were much darker than other, nearby leaves.

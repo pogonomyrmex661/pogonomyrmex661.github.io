@@ -25,7 +25,7 @@ There were big starfish in the sand, scattered all around. The starfish had a ro
 
 When she'd pick them up, she would get so excited that somebody else from the group would come over to see what she was looking at. Invariably she'd reach out and hand them the starfish, and they would end up smiling and laughing before putting it back on the sand.
 
-![picture](images/IMG_0631.jpg "Giving away a starfish")
+![picture](images/IMG_0630.jpg "Giving away a starfish")
 *Giving away a starfish*
 
 This happened a couple of times. Laurie would find a starfish, start looking at it, get excited and happy. Each time, somebody would come over to see what she was doing, and each time she'd hand them the starfish to examine.
