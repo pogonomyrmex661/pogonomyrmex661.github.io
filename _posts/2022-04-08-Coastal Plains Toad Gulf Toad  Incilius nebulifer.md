@@ -1,5 +1,5 @@
 ---
-title: Coastal Plains Toad (\Gulf Toad\) - Incilius nebulifer
+title: Coastal Plains Toad (Gulf Toad) - <i>Incilius nebulifer</i>
 date: 2022-04-08 02:02:02 +0700
 categories: [toad]
 tags: [amphibians, toad, texas]
