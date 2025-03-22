@@ -66,7 +66,7 @@ _Carril, Olivia Messinger and Joseph S. Wilson. 2023. [Common Bees of Western No
 
 _Eisner, Thomas and Edward O. Wilson. 2003. [For Love of Insects](https://www.amazon.com/Love-Insects-Thomas-Eisner/dp/0674011813). Belknap Press, First Edition (November 30, 2003). ISBN 0674011813._
 
-_Eisner, Thomas, Maria Eisner, Melody Siegler. 2007. [Secret Weapons: Defenses of Insects, Spiders, Scorpions and Other Many-Legged Creatures](https://www.amazon.com/Secret-Weapons-Scorpions-Many-Legged-Creatures/dp/0674024036). Belknap Press: An Imprint of Harvard University Press (April 30, 2007). 384 pages. ISBN 0674024036.
+*Eisner, Thomas, Maria Eisner, Melody Siegler. 2007. [Secret Weapons: Defenses of Insects, Spiders, Scorpions and Other Many-Legged Creatures](https://www.amazon.com/Secret-Weapons-Scorpions-Many-Legged-Creatures/dp/0674024036). Belknap Press: An Imprint of Harvard University Press (April 30, 2007). 384 pages. ISBN 0674024036.*
 
 _Evans, Arthur V. 2021. [Beetles of Western North America](https://www.amazon.com/gp/product/0691164282/). Princeton University Press (September 28, 2021). ISBN 0691164282._
 
@@ -76,6 +76,6 @@ _Wilson, Joseph S. and Olivia Messinger Carril. 2015. [The Bees in your Backyard
 
 _Wikipedia's entry on [Hypermetamorphosis](https://en.wikipedia.org/wiki/Hypermetamorphosis)._
 
-Bugguide.net is a wealth of information on all of these creatures, and refer to them constantly. One special mention to the Bugguide.net's user 'cotinis' for his fascinating photos of triungula on Tachinid flies, here: [https://bugguide.net/node/view/1783939](https://bugguide.net/node/view/1783939)
+*Bugguide.net is a wealth of information on all of these creatures, and refer to them constantly. One special mention to the Bugguide.net's user 'cotinis' for his fascinating photos of triungula on Tachinid flies, here: [https://bugguide.net/node/view/1783939](https://bugguide.net/node/view/1783939)*
 
-_A special thanks to the members of the Facebook '[Hymenopterists Forum](https://www.facebook.com/groups/hymenopteristsforum08)' for help with the identification of the bees and triungulin larvae. They are a fine, fine group, and they'll eat the _host's_ larvae while they are at it.p of people. Also note that any errors on this page are mine, probably brought about by my misunderstandings!_
+*A special thanks to the members of the Facebook '[Hymenopterists Forum](https://www.facebook.com/groups/hymenopteristsforum08)' for help with the identification of the bees and triungulin larvae. They are a fine, fine group, of people. Also note that any errors on this page are mine, probably brought about by my misunderstandings!*
