@@ -15,5 +15,3 @@ So the posts in this blog were made in “Full Narcissist” mode. Sort of an on
 With that caveat in mind…I hope that you, also, enjoy this blog.
 
 If you're interest in reposting/using my images <a href="https://bsky.app/profile/dale-ward.bsky.social" target="_blank">please contact me on Bluesky</a>.
-![me and poppies](images/E6B43E62-77F0-48BE-8AB3-82B9E0587673-689x1024.jpeg)
-*Me and Gold Poppies in Arizona*
