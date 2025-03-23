@@ -3,7 +3,7 @@ title: More High Altitude Tiger Salamander Larvae
 date: 2021-07-22 02:02:02 +0700
 categories: [post]
 tags: [amphibian, salamander, ephemeral pool]
-image: images/5823A381-06BC-4025-9F80-A96624445026.jpeg
+image: images/5823A381-06BC-4025-9F80-A96624445026-1024x1002.jpeg
 description: 
 ---
 
