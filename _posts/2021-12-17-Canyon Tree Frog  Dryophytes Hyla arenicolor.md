@@ -3,7 +3,7 @@ title: Canyon Tree Frog - Dryophytes (Hyla) arenicolor
 date: 2021-12-17 02:02:02 +0700
 categories: [post]
 tags: [amphibian, frog]
-image: images/IMG_1747.jpg
+image: images/IMG_1747-1024x723.jpg
 description: Watching Canyon Tree Frogs near Tucson
 ---
 
