@@ -4,14 +4,12 @@ date: 2017-09-23 02:02:02 +0700
 categories: [stories]
 tags: [belize, stories, snorkel, invertebrate, starfish]
 image: images/IMG_0109.jpg
-description: An fine experience on a snorkelling trip to Belize.
+description: A fine experience and unexpected connections on a snorkeling trip to Belize
 ---
 
-![picture](images/IMG_0199.jpg "starfish on turtle grass)
-*Starfish on turtle grass*
-
 A few years ago, Laurie and I went on a snorkeling trip to Belize. It was spectacular there. Beautiful and warm, with water as clear as air, and schools of fish passing like flocks of birds.
-
+![picture](images/IMG_0109.jpg "picture")
+*Starfish on turtle grass*
 
 One day we went out with a group of people to a part of the bay that was shallow, maybe five or six feet deep. The ocean bottom was sandy, with patches of turtle grass. The grassy, sandy area was surrounded by coral outcrops. An oasis in the coral.
 
