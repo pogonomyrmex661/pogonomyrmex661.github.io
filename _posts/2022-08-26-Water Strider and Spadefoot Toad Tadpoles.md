@@ -2,7 +2,7 @@
 title: Water Strider and Spadefoot Toad Tadpoles
 date: 2022-08-26 02:02:02 +0700
 categories: [toad]
-tags: [amphibian, ant, ephemeral pool, insect, invertebrate, spadefoot toad, tadpole]
+tags: [amphibian, ant, ephemeral pool, insect, invertebrate, spadefoot, toad, tadpole]
 image: images/70CF4EF2-D19F-49FD-8F5C-2C656CC78476.jpeg
 description: The monsoon rains have come, and I’ve been spending quite a bit of time watching tadpoles in temporary desert ponds and pools. Most of the pools I’ve found this year have not been in my usual cattle tanks and silty mud…
 ---
