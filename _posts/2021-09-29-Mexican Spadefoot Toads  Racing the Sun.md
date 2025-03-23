@@ -3,7 +3,7 @@ title: Mexican Spadefoot Toads - Racing the Sun
 date: 2021-09-29 02:02:02 +0700
 categories: [post]
 tags: [amphibian, ephemeral pool, spadefoot, tadpole, toad]
-image: images/IMG_1100-scaled.jpg
+image: images/IMG_1100.jpg
 description: An account of visiting temporary Spadefoot Toad tadpoles in the Southwest
 ---
 
