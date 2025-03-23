@@ -2,7 +2,7 @@
 title: Visit from a Cooper's Hawk
 date: 2017-09-25 02:02:02 +0700
 categories: [hawk]
-tags: [bird, hawk, coopers hawk accipiter]
+tags: [bird, hawk, coopers hawk, accipiter]
 image: images/510C0E85-2465-4A0C-8230-D9EE0E6EB6FF-1.jpg
 description: An account of a visit from a Cooper's Hawk'
 ---
