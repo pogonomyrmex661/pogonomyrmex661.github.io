@@ -51,11 +51,12 @@ Carrot Wasps have an interesting life history. They seek out the nests of solita
 ![picture](images/aa-IMG_2383_f-g-r4.jpg)
 *Looking at a Carrot Wasp (Gasteruption sp.) from a quartering-rear angle. You can see how her long, thin gaster inserts high up on her 'thorax'.*
 
-George Pilkington, in the UK, [has some fabulous footage](https://www.youtube.com/watch?v=Qgfo5luy9_A) of a _Gasteruption_ wasp laying eggs in a solitary bee's nest. What I think is really cool about it - the bee's nesting tunnel is longer than the wasp's ovipositor. So how does the wasp reach the bee's brood chamber?
+George Pilkington, in the UK, has some fabulous footage of a _Gasteruption_ wasp laying eggs in a solitary bee's nest. What I think is really cool about it - the bee's nesting tunnel is longer than the wasp's ovipositor. So how does the wasp reach the bee's brood chamber?
 
 The wasp gets entirely inside the tunnel leading to the bee's nesting chamber, and she _crawls backwards_ down the tunnel. She then uses her long ovipositor to feel a way through the cap that the bee placed over the bee's brood cells,
 
 Perhaps this behavior - the wasp's willingness to enter into the bee's nest - helps explain _Gasteruption's_ strange, elongated body shape. It makes it possible for _Gasteruption_ to be a relatively large wasp, yet still fit into the small diameter nest tunnels of solitary bees.
+Watch his video here: {% include youtube_embed.html id="Qgfo5luy9_A" %} 
 
 ![picture](images/aa-IMG_2285_01_f-g-r2.jpg)
 Another interesting feature of the Carrot Wasps are the swellings on its hind legs. They look a bit like saddlebags. Some people have speculated that they act as inertial stabilizers as the wasp hovers in front of tree trunks while they are looking for solitary bee nests. [Recent research](https://academic.oup.com/isd/article/3/1/2/5272370?login=false) suggests another possible function - they may act as sensors, to detect vibrations made by the adult solitary bees as they excavate their nests, or by bee larvae as they move inside the nest chamber.
