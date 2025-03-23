@@ -1,10 +1,10 @@
 ---
-title: Sagebrush Medusa Galls induced by Rhopalomyia  midges
+title: Medusa Galls on Sagebrush
 date: 2021-04-20 02:02:02 +0700
 categories: [post]
 tags: [gall, fly, insect]
 image: images/IMG_8285-1-949x1024.jpg
-description: Looking at Medusa galls on sagebrush
+description: Looking at Medusa galls on sagebrush, induced by Rhopalomyia midges
 ---
 
 ![picture](images/IMG_8285-1-949x1024.jpg)
