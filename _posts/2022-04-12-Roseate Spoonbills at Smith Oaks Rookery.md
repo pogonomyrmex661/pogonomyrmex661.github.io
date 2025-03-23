@@ -2,7 +2,7 @@
 title: Roseate Spoonbills at Smith Oaks Rookery
 date: 2022-04-12 02:02:02 +0700
 categories: [post]
-tags: [birds, texas]
+tags: [bird, texas]
 image: images/4FF6F5B2-BC6B-4646-9636-11D1EFCEC6AE-1024x955.jpeg
 description: Roseate Spoonbills at the Smith Oaks Rookery, from our recent trip to Bolivar, Texas
 ---
