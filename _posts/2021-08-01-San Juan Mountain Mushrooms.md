@@ -9,12 +9,12 @@ description: An account of finding mushrooms in the mountains of Southwestern Co
 
 We were going through a heat wave here in Cortez a few weeks ago. The Monsoons had started up in the mountains, but it was still uncomfortably warm around the house. I decided to head up into the mountains to cool off.
 
-As I was walking through the trees, I got one of those corner-of-the-eye, partly-seen glimpses of something on the ground next to my boot. My brain started processing the object before I was even aware I'd seen it: Something scaled, brown, coiled...IT'S A RATTLESNAKE! I was jumping away even before the thought had fully-formed.
-
-No, it wasn't a rattlesnake. Rather, it was a cluster of Hawks wing Mushroms (_Sarcodon imbricatus_). But I did enjoy the energizing jolt of what a friend used to call "herpatonin".
 
 ![](images/20210723_095430_HDR-300x226.jpg) *Hawks wing Mushrooms (_Sarcodon imbricatus_)*
 
+As I was walking through the trees, I got one of those corner-of-the-eye, partly-seen glimpses of something on the ground next to my boot. My brain started processing the object before I was even aware I'd seen it: Something scaled, brown, coiled...IT'S A RATTLESNAKE! I was jumping away even before the thought had fully-formed.
+
+No, it wasn't a rattlesnake. Rather, it was a cluster of Hawks wing Mushroms (_Sarcodon imbricatus_). But I did enjoy the energizing jolt of what a friend used to call "herpatonin".
 
 ![](images/20210723_095435_HDR-300x246.jpg) *Hawks Wing Mushrooms, with pocket knife for scale*
 
