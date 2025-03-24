@@ -80,6 +80,6 @@ A humorous thing - when I first wrote this post, I tried to identify all of the 
 
 So...if you want more information about the site, I highly recommend the following links.
 
-[dontmesswithdinosaurs.com](http://dontmesswithdinosaurs.com/?p=1708) \- Brian Engh is one of the artists that worked on the signage at this site. He also did signage at the Stomping Grounds. Here's a post where he talks about painting one of the most striking signs at the Mill Canyon Tracksite.
+[dontmesswithdinosaurs.com](https://dontmesswithdinosaurs.com/?p=1708) \- Brian Engh is one of the artists that worked on the signage at this site. He also did signage at the Stomping Grounds. Here's a post where he talks about painting one of the most striking signs at the Mill Canyon Tracksite.
 
 [BLM's Mill Canyon Dinosaur Tracksite PDF](https://www.blm.gov/sites/blm.gov/files/documents/files/Mill%20Canyon%20Dinosaur%20Tracksite.pdf) - This is a PDF containing images of BLM's interpretive signage. They did a magnificent job with these signs - its' well worth reading.
