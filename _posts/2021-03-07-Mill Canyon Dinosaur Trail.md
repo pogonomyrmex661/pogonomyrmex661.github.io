@@ -1,8 +1,8 @@
 ---
 title: Mill Canyon Dinosaur Trail
 date: 2021-03-07 02:02:02 +0700
-categories: [paleontology, utah]
-tags: [paleo, utah]
+categories: [[pst]]
+tags: [paleontology, utah]
 image: images/16996341-5CC4-4DD0-837E-EBE3D999CDA4-682x1024.jpeg
 description: Visiting the Mill Canyon Dinosaur Trail
 ---
