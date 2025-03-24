@@ -13,10 +13,6 @@ Bill and I were sweating as we walked over the slickrock.  It was hot, and ther
 
 We were on our way to see the dinosaur tracks at The Dinosaur Stomping Grounds.
 
-<!--more-->
-
- 
-
 ![](images/F8DCD4BC-CEB7-40FB-81C6-EF7F30368449-200x300.jpeg) *Bill hiking over the slickrock to The Stomping Grounds.*
 
 This was a spur-of-the-moment trip, and I had perhaps not written the directions down as thoroughly as I might have.
@@ -45,7 +41,7 @@ Paleontologists that studied the tracks decided that they were made by a meat-ea
 
 Around 160 million years ago, this spot would have been the shallow coast of a large inland sea - The Sundance Sea. That's a hard thing to imagine.
 
-Fortunately, Brian Engh (the artist who illustrated some of the BLM's interpretive signs) has put together a beautiful post on his blog, [dontmesswithdinosaurs.com](http://dontmesswithdinosaurs.com/?page_id=392). His paintings give a wonderful perspective on what this area must have looked like back then. And having him describe the process he used was really, really interesting.
+Fortunately, Brian Engh (the artist who illustrated some of the BLM's interpretive signs) has put together a beautiful post on his blog, [dontmesswithdinosaurs.com](https://dontmesswithdinosaurs.com/?page_id=392). His paintings give a wonderful perspective on what this area must have looked like back then. And having him describe the process he used was really, really interesting.
 
 ![](images/872F8B03-2808-4D46-84E7-E955DD97CDEE-200x300.jpeg) *Bill at The Stomping Grounds. Tracks all over!*
 
