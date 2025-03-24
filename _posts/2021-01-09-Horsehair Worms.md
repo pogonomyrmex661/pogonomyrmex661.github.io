@@ -3,8 +3,8 @@ title: Horsehair Worms
 date: 2021-01-09 02:02:02 +0700
 categories: [parasite]
 tags: [worm, invertebrate, parasite]
-image: images/DSCN9745.jpg
-description:
+image: images/DSCN2926-1024x768.jpg
+description: 
 ---
 
 A bunch of times over the years I've seen long worms in puddles and temporary pools. The worms will be white or brown, and ranging in size from six inches or so up to around ten inches.
