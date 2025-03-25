@@ -2,7 +2,7 @@
 title: Spiny Softshell Turtles (Apolone spinifera)
 date: 2022-05-09 02:02:02 +0700
 categories: [posts]
-tags: [alligator, reptile, texas, turtle]
+tags: [alligator/crocodile, reptile, texas, turtle]
 image: images/7DEC4560-4955-4CBB-A7FE-BB36033A6E3A-1024x682.jpeg
 description: Thoughts on Softshell Turtles and Alligators - how do they coexist?
 ---
