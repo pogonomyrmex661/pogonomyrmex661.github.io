@@ -2,7 +2,7 @@
 title: Mill Canyon Dinosaur Tracksite, Utah
 date: 2021-03-06 02:02:02 +0700
 categories: [post]
-tags: [aleontology, reptile, dinosaur, utah]
+tags: [paleontology, reptile, dinosaur, utah, alligator/crocodile]
 image: images/IMG_7614.jpg
 description: Visiting the Mill Canyon Dinosaur Tracksite
 ---
