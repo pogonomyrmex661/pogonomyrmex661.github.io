@@ -7,7 +7,7 @@ image: images/C2070D50-8337-422D-ACE4-6264B3AC2B91-1024x969.jpeg
 description: Many years ago, I had a friend who was a Crow...
 ---
 
-![](images/6C2D86F0-0F10-49A8-BE55-E5A2B692A777-1024x683.jpeg)]
+![](images/6C2D86F0-0F10-49A8-BE55-E5A2B692A777-1024x683.jpeg)
 
 I sent my sister the picture above. It’s a Raven at Mesa Verde. She said, “You know, that looks a lot like the way Jack the Crow used to swagger around the yard.” I looked at the picture again, and she was right.
 
