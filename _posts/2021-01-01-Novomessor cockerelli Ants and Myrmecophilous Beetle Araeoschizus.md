@@ -10,7 +10,7 @@ description: Watching a *Novomessor cockerelli* ant carrying a myrmecophilous be
 ![picture](images/IMG_1138-1024x716.jpg)
 *_Novomessor cockerelli_ and myrmecophilous beetle (_Araeoschizus sp_.)*
 
-An interesting thing happened while I was [watching the Army Ant raid near the _Novomessor cockerelli_ nest](https://tightloop.com/blog/2020/12/29/neivamyrmex-nigrescens-army-ant/).  As I mentioned, the _Novomessor_ _cockerelli_ were nervous while the Army Ants passed by. There were guards around the nest entrance, and we could see agitated workers down in the entrance's tunnel.
+An interesting thing happened while I was [watching the Army Ant raid near the _Novomessor cockerelli_ nest](/blog/2020/12/28/An-Encounter-with-Neivamyrmex-nigrescens-An-Army-Ant/).  As I mentioned, the _Novomessor_ _cockerelli_ were nervous while the Army Ants passed by. There were guards around the nest entrance, and we could see agitated workers down in the entrance's tunnel.
 
 Then one of the _Novomessor_ ants brought up a beetle up out of the tunnel, carrying it gently in her mandibles, parading the beetle around as though it were a favoured pet.
 
