@@ -29,9 +29,10 @@ Then Fortune smiled. My wife was rummaging around in the bookcase for a book abo
 It turns out that I had purchased the book way back in 2007...then promptly put it in the bookshelf and forgot about it!
 
 It is not clear to me how one might do such a thing...but I obviously did.
-
+<!--
 ![picture](images/IMG_3191-683x1024.jpg)
 *_Philodromus sp._, on the trunk of a Palo Verde Tree. I love the way the mottling on the spider matches the scarring on the tree trunk.*
+-->
 
 So it's been a bit like Christmas morning here, with me going through old, previously-unidentified spider photos such as these ones.
 
