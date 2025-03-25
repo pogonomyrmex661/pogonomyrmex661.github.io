@@ -4,7 +4,7 @@ date: 2019-07-15 02:02:02 +0700
 categories: [post]
 tags: [archaeology, dinosaur, paleontology, bird, alligator/crocodile, salamander]
 image: images/CC1B3624-2BB5-4164-A6F3-73E654B4F36F.jpeg
-description: A trip through the Painted Desert adn Petrified Forest, with a stop for fossils
+description: A trip through the Painted Desert and Petrified Forest, with a stop for fossils
 ---
 
 ![](images/CC1B3624-2BB5-4164-A6F3-73E654B4F36F.jpeg) *A view of the Painted Desert from one of the Park lookouts*
