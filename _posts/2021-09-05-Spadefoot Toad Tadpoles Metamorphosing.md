@@ -14,7 +14,7 @@ Back in late August of this year, I made another trip out to one of my Southeast
 
 The pool had shrunk by about one-third, I'd guess.
 
-![picture](images/IMG_0598-203x300.jpg)
+![picture](images/IMG_0598.jpg)
 *Faithful Jeep next to the Spadefoot Tadpole pool. Note that there are Sunflowers growing out of the middle of the pool. This spot was dry ground until the Monsoons arrived.*
 
 I was concerned that the pool might have dried up, or that the tadpoles had all metamorposed. I was quite happy to see that the tadpoles were still present.
