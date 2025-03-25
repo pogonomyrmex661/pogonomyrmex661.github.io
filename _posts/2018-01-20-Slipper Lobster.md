@@ -4,7 +4,7 @@ date: 2018-01-20 02:02:02 +0700
 categories: [post]
 tags: [crustacean]
 image: images/E33DA25B-B53F-4F85-88F4-5206D9657467-1024x768.jpeg
-description: Thoughts while looking Slipper Lobsters while snorkelling in Belize.
+description: Thoughts while looking at Slipper Lobsters in Belize
 ---
 
 ![Slipper lobster](images/E33DA25B-B53F-4F85-88F4-5206D9657467-1024x768.jpeg) *Slipper Lobster facing the camera. The large, flat protrusions are modified antennae. The small black dots just above the antennae are eyes.*
