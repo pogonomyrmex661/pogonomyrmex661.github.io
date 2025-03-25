@@ -2,7 +2,7 @@
 title: An Encounter with Neivamyrmex nigrescens - An Army Ant
 date: 2020-12-29 02:02:02 +0700
 categories: [post]
-tags: [ant, insect]
+tags: [ant, insect, army ant]
 image: images/IMG_1246-1024x737.jpg
 description: Watching a Neivamyrmex Army Ant raid in Arizona
 ---

@@ -2,7 +2,7 @@
 title: Novomessor cockerelli Ants and Myrmecophilous Beetle (Araeoschizus)
 date: 2021-01-01 02:02:02 +0700
 categories: [post]
-tags: [ant, beetle, insect, myrmecophile]
+tags: [ant, beetle, insect, army ant, myrmecophile]
 image: images/IMG_1138-1024x716.jpg
 description: Watching a *Novomessor cockerelli* ant carrying a myrmecophilous beetle...near an Army Ant raid
 ---
