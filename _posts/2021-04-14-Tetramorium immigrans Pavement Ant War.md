@@ -73,6 +73,6 @@ A rose by any other name, I guess.
 Sources:  
 Antwiki.org's [Tetramorium immigrans page](https://www.antwiki.org/wiki/Tetramorium_immigrans).
 
-Alex Wild's [posts on Tetramorium](http://www.myrmecos.net/tag/tetramorium/). This gentleman takes _spectacular_ photos of ants, as well writing compelling and informative accounts of them.
+Alex Wild's [posts on Tetramorium](https://www.myrmecos.net/tag/tetramorium/). This gentleman takes _spectacular_ photos of ants, as well writing compelling and informative accounts of them.
 
 Wagner, Herbert C, Arthofer W, Seifert B, Muster C, Steiner FM, Schlick-Steiner BC. 2017. [Light at the end of the tunnel: integrative taxonomy delimits cryptic species in the Tetramorium caespitum complex (Hymenoptera: Formicidae)](https://myrmecologicalnews.org/cms/index.php?option=com_download&view=download&filename=volume25/mn25_95-129_printable.pdf&format=raw). Myrmecological News, 25, 95-129.

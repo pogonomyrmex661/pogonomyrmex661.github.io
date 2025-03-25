@@ -19,9 +19,10 @@ I’ve looked back at those photos many times over the years. I figured that thi
 But it just didn't look _quite_ right. In [this image, from Eric Eaton's wonderful "Bug Eric" blog,](https://bugeric.blogspot.com/2013/03/spider-sunday-flatties.html) you can see that his spider's body form, and the way it holds its legs, and just the general "feel" of the spider, is different than the spider in my photos.
 
 So what type of spider is this?
-
+<!--
 ![picture](images/IMG_3187-1024x683.jpg)
 *_Philodromus sp_. on the trunk of a Palo Verde Tree*
+-->
 
 Then Fortune smiled. My wife was rummaging around in the bookcase for a book about Colorado birds  when she came across a spiral-bound book. It was a copy of "Spiders of North America".
 
