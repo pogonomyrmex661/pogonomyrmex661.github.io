@@ -34,25 +34,21 @@ I went tearing around the neighborhood in my Batman cape and my cardboard wings,
 
 It was an exhilarating feeling. I was sure that if only I could run more quickly, I could get airborne. But *how* to go faster? 
 
- The solution problem came from an unlikely source. Mom and Dad had decided that religious instruction would have a positive effect on my life. So once a week, I'd get dropped off at a local Sunday School for instruction in a form of Texas Fundamentalist Spirituality.
+ The solution problem came from an unlikely source. Mom and Dad had decided that religious instruction for me would be a good idea. So, once a week, they would drop me off at a local Sunday School for instruction in Texas Fundamentalist Spirituality.
 
 This religious instruction mostly involved sitting in a circle with other children and chanting songs. 
 
-We'd also watch weekly re-enactments of Old Testament bible stories. The teacher would perform these plays using pipe-cleaner figures. She would move these around in a box half-full of cat litter - a stand-in for the sands of the Middle East. She would do different voices for the different characters. She would pause occasionally and look expectantly at us, which was our cue to perform a specific chant or song. 
+We'd also watch re-enactments of Old Testament bible stories. The teacher performed these plays by moving pipe-cleaner figures around in a box half-full of what appeared to be cat litter. She would perform each character's lines with a different voice - gruff and deep for one, a quavering falsetto for another. She would pause occasionally and look expectantly at us, which was our cue to perform a specific chant or song. 
 
-One of the central concepts of the Sunday School's teachings was that of biblical inerrancy - the idea that the bible was divinely inspired and therefore contained no errors. It was thus to be interpreted quite literally.
+One of the central precepts of the Sunday School's teachings was that of biblical inerrancy - the idea that the bible was divinely inspired and therefore contained no errors. It was thus to be interpreted quite literally.
 
-Sometimes I wonder if this was a wise philosophy to instill in five-year-olds. But then I realize that teaching young children to believe in the literal truth of the two-thousand-year-old, mistranslated, words of warlords, schizophrenics and delusionals was a fine idea, and that no harm could possibly come of it. 
+I had unfortunately generalized this belief to include *all other* written texts as well. This misunderstanding was to cause me no end of troubles in life. For this story, though, the most pertinent literally-interpreted text was from a book about Golden Eagles.
 
-But I digress.
-
-I had unfortunately generalized this belief in literary inerrancy to *all other* written texts as well. This misunderstanding was to cause me no end of troubles while growing up. For this story, though, the most pertinent literally-interpreted text was from a book about Golden Eagles.
-
-This eagle book contained the obligatory "Eagles and Man" chapter, which had an illustrated account of the tale of Daedalus and Icarus. They made *their* wings out of wax and eagle feathers. It worked pretty well, until Icarus flew too close to the sun. His wax wings melted, and he fell to earth.
+This eagle book contained the obligatory "Eagles and Man" chapter, which had an illustrated account of the tale of Daedalus and Icarus. They made their wings out of wax and eagle feathers. It worked pretty well until Icarus flew too close to the sun. His wax wings melted, and he fell to earth.
 
 Hmm. Okay. So the take-home message from The Text was that the basic concept worked, but Icarus and Daedalus had chosen inappropriate materials. Good to know. I bet that if they had thought to use *cardboard*, they would not have had their material failure.
 
-Since I could feel some lift from the wings when I ran, I was thinking that I all I needed was a higher elevation launching point. I'd gain speed as I slowly glided to earth, and then...true flight. I'd replicate, and then surpass, the performance of Icarus and Daedalus. I had modern *cardboard*, not something primitive like *wax*. 
+Since I could feel some lift from my wings when I ran, I was thinking that I all I needed was a higher elevation launching point. I'd gain speed as I slowly glided to earth, and then...true flight. I'd replicate, and then surpass, the performance of Icarus and Daedalus. I had modern *cardboard*, not something primitive like *wax*. 
 
 So I found a brick wall that joined a house at a 90 degree angle. By pushing against the two walls, and using the exposed hands on my wings, I was able to clamber up the brick wall like some proto-Archaeopteryx. I reached the top and crawled out to the center of the wall, teetering as I stood up.
 
