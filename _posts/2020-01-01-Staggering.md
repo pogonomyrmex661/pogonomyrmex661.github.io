@@ -16,7 +16,7 @@ description: A thought on some shocking old photos of Buffalo bones.
 > 
 > \-  James McMurtry, [No More Buffalo](https://m.youtube.com/watch?v=tIwfI3k8kV0)
 
-![](images/623A958A-D56B-4207-A1EC-A67AA8C05A9D-911x1024.jpeg) *Top image: Buffalo bones stacked prior to shipment to Saskatoon. Bottom image: loading bones onto a train. Image from [Wikipedia](https://A pile of buffalo bones stacked for shipment to Saskatoon, young man posed in front.jpg)*
+![](images/623A958A-D56B-4207-A1EC-A67AA8C05A9D-911x1024.jpeg) *Top image: Buffalo bones stacked prior to shipment to Saskatoon. Bottom image: loading bones onto a train. Image from Wikipedia*
 
 These jaw-dropping photos were taken decades after the initial slaughter of the Plains buffalo.  The Buffalo were dead and the Plains covered with drifts of left-over Buffalo skeleton. The number of bones was so staggering that for years, they supported a bone-collection industry. Harvesting and processing the bones into fertilizer, bone black, filter media, and other industrial products.
 
