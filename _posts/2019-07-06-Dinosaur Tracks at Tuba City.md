@@ -2,9 +2,9 @@
 title: Dinosaur Tracks at Tuba City
 date: 2019-07-06 02:02:02 +0700
 categories: [post]
-tags: [arizona, paleontology, dinosaur]
+tags: [paleontology, dinosaur]
 image: images/071C0AD5-723E-42EB-A663-10F30CB08448.jpeg
-description: A visit to the Navajo Nation to see the Dinosaur Tracks at Tuba City
+description: A visit to the Navajo Nation to see the Dinosaur Tracks at Tuba City, Arizona
 ---
 
 ![](images/b.jpeg) *Landscape near the track site. It's a spectacular and austere place.*

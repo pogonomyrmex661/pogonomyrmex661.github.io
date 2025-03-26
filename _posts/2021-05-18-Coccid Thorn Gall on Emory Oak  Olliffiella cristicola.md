@@ -2,7 +2,7 @@
 title: Coccid Thorn Gall on Emory Oak - Olliffiella cristicola
 date: 2021-05-18 02:02:02 +0700
 categories: [post]
-tags: [gall, ant, arizona]
+tags: [gall, ant, insect]
 image: images/DSCN9828-1024x748.jpg
 description:  Fascinating and bizzare "Witch Hat" galls in Southern Arizona
 ---
