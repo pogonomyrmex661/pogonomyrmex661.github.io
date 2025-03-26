@@ -1,8 +1,8 @@
 ---
 title: San Juan Mountain Mushrooms
 date: 2021-08-01 02:02:02 +0700
-categories: [colorado, fungus]
-tags: [colorado, fungus]
+categories: [post]
+tags: [fungus]
 image: images/20210723_095430_HDR.jpg
 description: An account of finding mushrooms in the mountains of Southwestern Colorado
 ---
