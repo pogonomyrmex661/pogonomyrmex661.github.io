@@ -2,7 +2,7 @@
 title: Canyon Tree Frog Tadpoles
 date: 2020-12-08 02:02:02 +0700
 categories: [post]
-tags: [amphibians, toad, ephemeral pool]
+tags: [amphibians, frog, tadpole, ephemeral pool]
 image: images/50460C62-8D06-43EF-9EE2-52F9C9B53F35-1024x711.jpeg
 description: Photos of Canyon Tree Frog tadpoles near Tucson, Arizona
 ---
