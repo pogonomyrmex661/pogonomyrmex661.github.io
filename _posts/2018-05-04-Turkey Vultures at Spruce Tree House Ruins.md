@@ -2,9 +2,9 @@
 title: Turkey Vultures at Spruce Tree House Ruins
 date: 2018-05-04 02:02:02 +0700
 categories: [post]
-tags: [archaeology, bird]
+tags: [archaeology, bird, ruins and petroglyphs]
 image: images/DDBEE4A8-A18C-4189-9A55-D5D5A820DD2A-1024x682.jpeg
-description: Spending time watching Turkey Vultures on Mesa Verde
+description: Spending *more* time watching Turkey Vultures on Mesa Verde
 ---
 
 ![Turkey vulture and ruins at mesa verde](images/DDBEE4A8-A18C-4189-9A55-D5D5A820DD2A-1024x682.jpeg) *Turkey Vulture flying in front of Spruce Tree House Ruin*

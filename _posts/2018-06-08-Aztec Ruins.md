@@ -2,7 +2,7 @@
 title: Aztec Ruins
 date: 2018-06-08 02:02:02 +0700
 categories: []
-tags: [archaeology]
+tags: [archaeology, ruins and petroglyphs]
 image: images/75EF10C7-79C7-4172-A433-D7D597F8BEE4-700x1024.jpeg
 description: A visit to Aztec Ruins, in New Mexico.
 ---

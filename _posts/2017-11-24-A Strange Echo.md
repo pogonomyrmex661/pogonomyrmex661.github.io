@@ -2,7 +2,7 @@
 title: An Echo at Mesa Verde
 date: 2017-11-24 02:02:02 +0700
 categories: [post]
-tags: [ruins, bird, raven, archaeology]
+tags: [ruins and petroglyphs, bird, raven, archaeology]
 image: images/IMG_6209-1024x690.jpg
 description: An unsettling experience while watching Ravens around the ruins at Mesa Verde
 ---

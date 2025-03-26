@@ -2,7 +2,7 @@
 title: Yellow Jacket Pueblo
 date: 2017-10-14 02:02:02 +0700
 categories: [archaeology]
-tags: [ruins, archaeology, colorado]
+tags: [ruins and petroglyphs, archaeology]
 image: images/IMG_8929.jpg
 description:
 ---

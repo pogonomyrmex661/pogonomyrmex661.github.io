@@ -2,7 +2,7 @@
 title: Chaco Canyon
 date: 2017-11-18 02:02:02 +0700
 categories: [post]
-tags: [archaeology]
+tags: [archaeology, ruins and petroglyphs]
 image: images/2030BBFE-AD9C-4610-A220-F1EE5638ABC0-678x1024.jpeg
 description: A visit to see Chaco Canyon's ruins
 ---

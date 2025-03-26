@@ -2,7 +2,7 @@
 title: Castle Rock Pueblo - Sand Canyon
 date: 2017-08-15 02:02:02 +0700
 categories: [archaeology]
-tags: [ruins, archaeology, colorado]
+tags: [ruins and petroglyphs, archaeology, colorado]
 image: images/IMG_0801-r.jpg
 description: 
 ---

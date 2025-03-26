@@ -2,7 +2,7 @@
 title: Cannon Ball Mesa Ruins
 date: 2017-09-07 02:02:02 +0700
 categories: [archaeology]
-tags: [archaeology, ruins]
+tags: [archaeology, ruins and petroglyphs]
 image: images/IMG_7663.jpg
 description: 
 ---
