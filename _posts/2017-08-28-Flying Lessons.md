@@ -32,9 +32,10 @@ After Dad fitted the wings to my arms, he squatted down to my level and looked s
 
 I went tearing around the neighborhood in my Batman cape and my cardboard wings, arms outstretched and cape streaming behind me. I found that by running as fast as I could, into the wind, I could feel just the beginnings of lift, of flight. 
 
-It was an exhilarating feeling. I was sure that if only I could run more quickly, I could get airborne. But *how* to go faster? 
+If I could go faster, would I be able to actually fly?
 
- The solution problem came from an unlikely source. Mom and Dad had decided that religious instruction for me would be a good idea. So, once a week, they would drop me off at a local Sunday School for instruction in Texas Fundamentalist Spirituality.
+
+The answer came from an unlikely source. Mom and Dad had decided that religious instruction for me would be a good idea. So, once a week, they would drop me off at a local Sunday School for instruction in Texas Fundamentalist Spirituality.
 
 This religious instruction mostly involved sitting in a circle with other children and chanting songs. 
 
@@ -44,34 +45,34 @@ One of the central precepts of the Sunday School's teachings was that of biblica
 
 I had unfortunately generalized this belief to include *all other* written texts as well. This misunderstanding was to cause me no end of troubles in life. For this story, though, the most pertinent literally-interpreted text was from a book about Golden Eagles.
 
-This eagle book contained the obligatory "Eagles and Man" chapter, which had an illustrated account of the tale of Daedalus and Icarus. They made their wings out of wax and eagle feathers. It worked pretty well until Icarus flew too close to the sun. His wax wings melted, and he fell to earth.
+This eagle book contained the obligatory "Eagles and Man" chapter, which had an illustrated account of the tale of Daedalus and Icarus. They had been imprisoned in a high tower intil Daedalus made them each wax and eagle feather wings.  They leapt from the top of the tower and soared away to freedom. It was working beautifully until a giddy Icarus flew too close to the sun. His wax wings melted, and he fell to sea.
 
-Hmm. Okay. So the take-home message from The Text was that the basic concept worked, but Icarus and Daedalus had chosen inappropriate materials. Good to know. I bet that if they had thought to use *cardboard*, they would not have had their material failure.
+Hmm. Okay. So the message from The Text was that the concept would work, and flight was possible. Icarus and Daedalus had trouble because the used inappropriate materials. Good to know. I bet that if they had thought to use *cardboard*, they would not have had their material failure.
 
-Since I could feel some lift from my wings when I ran, I was thinking that I all I needed was a higher elevation launching point. I'd gain speed as I slowly glided to earth, and then...true flight. I'd replicate, and then surpass, the performance of Icarus and Daedalus. I had modern *cardboard*, not something primitive like *wax*. 
+Since I could feel some lift from my wings when I ran, I was thinking that I should follow Daedalus' pioneering work and find a higher elevation launching point. I'd gain speed as I glided to earth, and then...true flight. I'd replicate, and then surpass, the performance of Icarus and Daedalus. I had modern *cardboard*, not something primitive like wax and feathers. 
 
-So I found a brick wall that joined a house at a 90 degree angle. By pushing against the two walls, and using the exposed hands on my wings, I was able to clamber up the brick wall like some proto-Archaeopteryx. I reached the top and crawled out to the center of the wall, teetering as I stood up.
+I found a brick wall that joined a house at a 90 degree angle. By pushing against the two walls, and using the exposed hands on my wings, I was able to clamber up the corner in the brick wall like some proto-Archaeopteryx. I reached the top and crawled out to the center of the wall, teetering as I stood up.
 
 The wall can't have been very high, but it felt like I was at the top of the world. Wind whistling past me, my Batman cape fluttering straight behind me. The wind was pushing me, lifting against my wings.
 
 I bent my knees and crouched, leaning forward into the wind. The wind seemed louder now. 
 
-I imagined that once I got up to speed, the air would have a viscous quality as it supported me. I wondered how small our house would look when I was at altitude. This was going to be great.
+I imagined that once I got up to speed, the air would have a viscous quality as it supported me. I wondered how small our house would appear when I was at altitude. This was going to be great.
 
 Totally committed, I leapt forward and out into the air, wings spread at the perfect angle, legs trailing the way I'd seen birds do it.
 
 A brief sensation of speed, much faster than I thought it would be - and I smacked into the ground. Really hard.
 
-This was the first time I knocked the wind out of myself, and I think it was also the first time I sprained an ankle. I wasn't hurt very badly, though, and was able to get back to our house. I didn't dare tell Dad what had happened because he had explicitly told me not to do exactly what I had just done.
+This was the first time I knocked the wind out of myself, and I think I sprained my ankle. I wasn't hurt very badly, though, and was able to get back to our house. I didn't dare tell Dad what had happened because he had explicitly told me not to do exactly what I had just done.
 
-By now I was sure things had not gone for Icarus and Daedalus as recounted in my eagle book. I wondered if Icarus had felt this way when recounting his tale to Daedalus.
+By now I was sure things for Icarus and Daedalus had not gone as recounted in my eagle book. I wondered if Icarus had felt this way when recounting his tale to Daedalus.
 
-Daedalus would probably have been in kitchen, cooking breakfast. "Dammit Icarus what did you do? I told you to stay on the ground."
+Daedalus would probably have been in the kitchen, cooking breakfast. "Dammit Icarus what did you do? I told you to stay on the ground."
 
-Icarus was probably embarrassed. He knew he needed a story. He would have blurted "Umm..well, it was the sun! You should have seen!" as he limped into Daedalus' kitchen.
+Icarus was probably embarrassed. He knew he needed a story. He would have blurted something like, "Umm..well, it was the sun! You should have seen!" as he limped into Daedalus' kitchen.
 
-Here's a funny thing. I adapted this writing from an email that I had sent to my sister a number of years ago. And when I wrote *that* email to her, I was recovering from a recently broken arm.  I had fallen off of a horse and landed badly. 
+Here's a funny thing. I adapted this writing from an email that I had sent to my sister a number of years ago. And when I wrote that email to her, I was recovering from a recently broken arm.  I had fallen off of a horse and landed badly. 
 
-The thing is, I fell off while trying to replicate something I'd read in a book about horse training.
+The thing was, I fell off of that horse while trying to replicate something I'd read in a book about horse training.
 
-Proving that the "literary inerrancy" thing may still be a problem for me.
+Proving that the "literary inerrancy" issue may still be a problem for me.
