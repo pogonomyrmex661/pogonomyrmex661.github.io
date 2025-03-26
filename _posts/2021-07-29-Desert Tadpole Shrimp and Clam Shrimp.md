@@ -2,7 +2,7 @@
 title: Desert Tadpole Shrimp and Clam Shrimp
 date: 2021-07-29 02:02:02 +0700
 categories: [invertebrates]
-tags: [ephemeral pool, invertebrate, triops, tadpole shrimp, tadpole, clam shrimp, ostracod]
+tags: [ephemeral pool, invertebrate, tadpole shrimp, tadpole, clam shrimp, ostracod]
 image: images/4935F1FA-BA98-4BF2-A24E-8FD1F91C55A2.jpeg
 description: 
 ---

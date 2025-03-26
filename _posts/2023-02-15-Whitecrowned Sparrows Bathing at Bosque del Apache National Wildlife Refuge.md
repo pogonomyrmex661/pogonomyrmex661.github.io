@@ -2,7 +2,7 @@
 title: White-crowned Sparrows Bathing at Bosque del Apache National Wildlife Refuge
 date: 2023-02-15 02:02:02 +0700
 categories: [bird]
-tags: [bird, bosque del apache, sparrow]
+tags: [bird, bosque del apache]
 image: images/IMG_2344.jpg
 description:
 ---

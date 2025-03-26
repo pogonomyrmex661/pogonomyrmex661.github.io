@@ -2,7 +2,7 @@
 title: Aspen Twoleaf Tier Caterpillars
 date: 2023-02-11 02:02:02 +0700
 categories: [caterpillar]
-tags: [caterpillar, moth, tree, plant, insect]
+tags: [caterpillar, moth, plant, insect]
 image: images/IMG_9155.jpg
 description:
 ---

@@ -2,7 +2,7 @@
 title: Aspen Serpentine Leaf Miner (Phyllocnistis populiella)
 date: 2021-06-18 02:02:02 +0700
 categories: [post]
-tags: [caterpillar, plant, moths]
+tags: [caterpillar, plant, moth]
 image: images/C83713A1-4042-49C3-A841-4FCDC2ACDB11-1024x812.jpeg
 description: Who makes these strange tunnel-patterns in leaves?
 ---

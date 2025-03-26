@@ -1,8 +1,8 @@
 ---
 title: Garden Toad
 date: 2021-07-17 02:02:02 +0700
-categories: [amphibians, toad]
-tags: [amphibians]
+categories: [post]
+tags: [amphibian, toad]
 image: images/23C396B0-A138-4188-B6B9-8DCF307CDDA3-1024x688.jpeg
 description: A Woodhouse's Toad in the Garden today
 ---

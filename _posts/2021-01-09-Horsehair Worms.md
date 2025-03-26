@@ -2,7 +2,7 @@
 title: Horsehair Worms
 date: 2021-01-09 02:02:02 +0700
 categories: [parasite]
-tags: [worm, invertebrate, parasite]
+tags: [invertebrate, parasite]
 image: images/DSCN2926-1024x768.jpg
 description: 
 ---

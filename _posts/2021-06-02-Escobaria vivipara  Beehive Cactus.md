@@ -2,7 +2,7 @@
 title: Escobaria vivipara - Beehive Cactus
 date: 2021-06-02 02:02:02 +0700
 categories: [plants]
-tags: [plant]
+tags: [plant, cactus]
 image: images/IMG_9037.jpg
 description: Looking at Escobaria Beehive cactus in the desert of Southwestern Colorado
 ---

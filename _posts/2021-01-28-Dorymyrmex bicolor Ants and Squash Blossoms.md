@@ -1,8 +1,8 @@
 ---
 title: Dorymyrmex bicolor Ants and Squash Blossoms
 date: 2021-01-28 02:02:02 +0700
-categories: [ant, plants]
-tags: [ant, inverts, plant]
+categories: [post]
+tags: [ant, plant]
 image: images/IMG_4460-1024x758.jpg
 description: Watching Dorymyrmex Bicolor ants drinking nectar from Squash blossoms in our Arizona garden
 ---

@@ -2,7 +2,7 @@
 title: Butcher Bird
 date: 2018-01-14 02:02:02 +0700
 categories: [post]
-tags: [birds, bosque del apache]
+tags: [bird, bosque del apache]
 image: images/5599CE34-1989-4021-8812-F2CEB756FE8F-1024x996.jpeg
 description: Watching a Loggerhead Shrike at Bosque del Apache
 ---

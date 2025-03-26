@@ -2,7 +2,7 @@
 title: Claret Cup Cactus - Echinocereus triglochidiatus
 date: 2021-06-01 02:02:02 +0700
 categories: [post]
-tags: [plant, reptile, lizard]
+tags: [plant, cactus, reptile, lizard]
 image: images/IMG_9043.jpg
 description: Looking at Claret Cup Cactus in the Sagebrush Desert of Southwestern Colorado
 ---

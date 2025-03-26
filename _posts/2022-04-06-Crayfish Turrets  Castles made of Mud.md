@@ -2,7 +2,7 @@
 title: Crayfish Turrets - Castles made of Mud
 date: 2022-04-06 02:02:02 +0700
 categories: [invertebrate]
-tags: [invertebrate, crustacean, crayfish]
+tags: [invertebrate, crustacean]
 image: images/26F506A4-F8EC-453A-B317-2579FFC5BE8E-682x1024.jpeg
 description: 
 ---

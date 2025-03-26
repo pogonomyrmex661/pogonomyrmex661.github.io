@@ -2,7 +2,7 @@
 title: Tadpole Shrimp and the Timing of the Rains
 date: 2021-08-21 02:02:02 +0700
 categories: [post]
-tags: [triops, tadpole shrimp, amphibian, ephemeral pool, salamander]
+tags: [tadpole shrimp, amphibian, ephemeral pool, salamander]
 image: images/IMG_0390.jpg
 description: Visiting one of my temporary Tiger Salamander pools in the Southwestern Desert, thinking about how the timing of the rains may affect which their biotic composition.
 ---

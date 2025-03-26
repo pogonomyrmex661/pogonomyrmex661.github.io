@@ -2,7 +2,7 @@
 title: Terrestrial Garter Snakes (Thamnophis elegans)
 date: 2022-10-21 02:02:02 +0700
 categories: [snake]
-tags: [snake, reptile, garter snake]
+tags: [snake, reptile]
 image: images/IMG_1504.jpg
 description: In the afternoon, Jack the Hound and I usually walk down the driveway to check the mail. And on three of the last four days, I’ve found a Terrestrial Garter Snake stretched out in the sun, either on the gravel…
 ---

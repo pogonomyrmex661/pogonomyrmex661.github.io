@@ -2,7 +2,7 @@
 title: Dry Tiger Salamander Tanks!
 date: 2021-03-16 02:02:02 +0700
 categories: [post]
-tags: [amphibians, disease, salamander, ephemeral pool]
+tags: [amphibian, disease, salamander, ephemeral pool]
 image: images/CE4CD1BF-755D-4D5F-A677-33F97A92DC51-1024x781.jpeg
 description: My desert Tiger Salamander tanks are dry!
 ---

@@ -1,5 +1,5 @@
 ---
-title: A Strange Echo
+title: An Echo at Mesa Verde
 date: 2017-11-24 02:02:02 +0700
 categories: [post]
 tags: [ruins, bird, raven, archaeology]

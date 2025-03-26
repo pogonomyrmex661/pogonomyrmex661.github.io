@@ -2,7 +2,7 @@
 title: Tadpole Shrimp (Triops longicaudatus) - Making Tracks
 date: 2021-10-11 02:02:02 +0700
 categories: [post]
-tags: [ephemeral pool, triops, tadpole shrimp]
+tags: [ephemeral pool, tadpole shrimp]
 image: images/IMG_1263-1024x707.jpg
 description: Tadpole shrimp, tracks and fossils in a temporary desert pool
 ---
