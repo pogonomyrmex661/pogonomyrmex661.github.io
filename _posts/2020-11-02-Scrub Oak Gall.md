@@ -45,6 +45,6 @@ _Acorn plum galls: [https://www.backyardnature.net/n/x/plumgall.htm](https://www
 
 _“Dead Sea Scrolls were written in iron gall ink”: https://religion.wikia.org/wiki/Dead\_Sea\_scrolls_
 
-_Fascinating info on gall wasps: [http://leftcoastnatty.blogspot.com/2010/09/oak-gall-wasps-cynipids.html](http://leftcoastnatty.blogspot.com/2010/09/oak-gall-wasps-cynipids.html)_
+_Fascinating info on gall wasps: [https://leftcoastnatty.blogspot.com/2010/09/oak-gall-wasps-cynipids.html](https://leftcoastnatty.blogspot.com/2010/09/oak-gall-wasps-cynipids.html)_
 
-_Site with a lot of interesting stuff, including galls: [Arizonensis.org](http://www.arizonensis.org/sycamore/nature/flora/quercus_turbinella-p2.html)_
+_Site with a lot of interesting stuff, including galls: [Arizonensis.org](https://www.arizonensis.org/sycamore/nature/flora/quercus_turbinella-p2.html)_
