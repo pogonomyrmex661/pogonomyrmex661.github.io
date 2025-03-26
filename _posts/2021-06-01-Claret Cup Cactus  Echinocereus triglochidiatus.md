@@ -14,7 +14,6 @@ I was out hiking through the Sagebrush Desert last week. It was afternoon, and I
 
 As I came down the side of small hill, I noticed a bright flash of red on the ground. Then another, and another. I had stumbled into a group of in-bloom Claret Cup ("King Cup") Cactus (_Echinocerius triglochidiatus_).  
 
-<!--more-->
 
 There were probably 15 or 20 clumps of them within a small area, perhaps 30 x30 meters. Since the afternoon was hot, and the light was bad,  I made a note of the locale and decided to come back another day.
 
