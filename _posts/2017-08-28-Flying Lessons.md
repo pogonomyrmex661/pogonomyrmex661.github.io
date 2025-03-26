@@ -3,10 +3,10 @@ title: Flying Lessons
 date: 2017-08-28 02:02:02 +0700
 categories: [stories]
 tags: [bird, stories]
-image: images/1A370AFB-6A9C-445E-BFD6-D5E47E395C10-789x1024.jpeg
+image: images/raven-blogger2.jpeg
 description: 
 ---
-![picture](images/1A370AFB-6A9C-445E-BFD6-D5E47E395C10-789x1024.jpeg)
+![picture](images/raven-blogger2.jpeg)
 
 Amarillo, Texas was where I first learned how to fly. It was also the first place that I really remember while growing up. I was four or five years old at the time, and Amarillo was Paradise.
 

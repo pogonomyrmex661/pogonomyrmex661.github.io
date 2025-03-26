@@ -7,7 +7,7 @@ image: images/raven-blogger-avatar.jpeg
 description: I’ve heard that “Curiosity killed the cat.” I’m not sure how accurate that saying is. It seems to me that coyotes are much harder on cats than curiosity ever was. But I know that curiosity has caused me some trouble…
 ---
 
-![picture](images/raven-blogger-avatar.jpeg)
+![picture](images/raven-blogger2.jpeg)
 *Your humble narrator remember...*
 
 I’ve heard that “Curiosity killed the cat.” I’m not sure how accurate that saying is. It seems to me that coyotes are much harder on cats than curiosity ever was. But I know that curiosity has caused me some trouble over the years.

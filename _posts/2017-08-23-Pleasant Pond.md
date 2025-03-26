@@ -7,8 +7,9 @@ image: images/raven-blogger-avatar.jpeg
 description: Remembering snorkelling in Pleasant Pond, New Hampshire
 ---
 
-![picture](images/raven-blogger-avatar.jpeg)
+![picture](images/raven-blogger2.jpeg)
 *Your humble narrator remembers...*
+
 
 New Hampshire has lots of ponds and rivers. They are everywhere. Living in the Western US, it's easy to forget just how common ponds in New Hampshire are, and how beautiful they are. New Hampshire has ponds the way Arizona has canyons.
 
