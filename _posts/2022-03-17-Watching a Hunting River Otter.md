@@ -2,7 +2,7 @@
 title: Watching a Hunting River Otter
 date: 2022-03-17 02:02:02 +0700
 categories: [post]
-tags: [mammals]
+tags: [mammal]
 image: images/IMG_4466-1024x682.jpg
 description: An account of watching a River Otter hunting in Southwestern Colorado
 ---

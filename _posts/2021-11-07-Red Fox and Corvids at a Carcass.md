@@ -2,7 +2,7 @@
 title: Red Fox and Corvids at a Carcass
 date: 2021-11-07 02:02:02 +0700
 categories: [post]
-tags: [ravens, critters, fox, mammals, raven]
+tags: [fox, mammal, raven]
 image: images/IMG_1853-1024x687.jpg
 description: Watching a fox at a deer carcass in Southwestern Colorado
 ---
