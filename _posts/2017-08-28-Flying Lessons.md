@@ -6,7 +6,7 @@ tags: [bird, stories]
 image: images/raven-blogger2.jpeg
 description: 
 ---
-![picture](images/raven-blogger2.jpeg)
+![picture](images/raven-blogger2.jpeg) *Your humble narrator remembers...*
 
 Amarillo, Texas was where I first learned how to fly. It was also the first place that I really remember while growing up. I was five years old at the time, and Amarillo was Paradise.
 
