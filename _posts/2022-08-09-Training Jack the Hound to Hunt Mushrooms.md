@@ -2,7 +2,7 @@
 title: Training Jack the Hound to Hunt Mushrooms
 date: 2022-08-09 02:02:02 +0700
 categories: [fungus]
-tags: [colorado, dog, fungus]
+tags: [dog, fungus]
 image: images/09AAEC1B-2AA1-424D-B14E-DCC6B9BF08C5-crop.jpeg
 description: A week or so ago, Laurie and I watched a  movie called The Truffle Hunters. It was a movie about some Italian folks who had trained their dogs to find Truffles – a type of subterranean fungus. This film inspired…
 ---

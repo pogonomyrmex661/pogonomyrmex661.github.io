@@ -2,7 +2,7 @@
 title: Mating Short-Horned Lizards in Southwestern Colorado
 date: 2024-04-26 02:02:02 +0700
 categories: [lizard]
-tags: [colorado, lizard, reptile]
+tags: [lizard, reptile]
 image: images/aaaa-IMG_4348_01-g-r.jpg
 description: An account of seeing Short-horned Lizards mating in Southwestern Colorado.
 ---

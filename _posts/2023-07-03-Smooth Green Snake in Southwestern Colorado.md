@@ -2,7 +2,7 @@
 title: Smooth Green Snake in Southwestern Colorado
 date: 2023-07-03 02:02:02 +0700
 categories: [snake]
-tags: [colorado, reptile, snake]
+tags: [reptile, snake]
 image: images/20230629_083316-r.jpg
 description: 
 ---
