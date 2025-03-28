@@ -15,7 +15,7 @@ If the pool ever managed to get a few inches deep, there was an eroded pour-poin
 
 And inside this pool, at the edge of the cliff, were Fairy Shrimp.
 
-These little creatures are similar to [Tadpole Shrimp](https://tightloop.com/blog/2018/09/11/tadpole-shrimp/), in that they are both Brachiopod crustaceans that live in temporary desert pools. Both creatures lay eggs than survive decades of desiccation while still remaining viable.
+These little creatures are similar to [Tadpole Shrimp](/blog/2018/09/11/Tadpole-Shrimp/), in that they are both Brachiopod crustaceans that live in temporary desert pools. Both creatures lay eggs than survive decades of desiccation while still remaining viable.
 
 Here’s a brief cellphone video of some of the shrimp:
 {% include youtube_embed.html id="7eIN9sJCyOc" %}  

@@ -22,4 +22,4 @@ These jaw-dropping photos were taken decades after the initial slaughter of the 
 
 We look back on this and say that we think it's a terrible thing. 
 
-But you know what? I'm pretty sure we'd do it again.
+But you know what? Given what I've seen of humans, I'm pretty sure we'd do it again.
