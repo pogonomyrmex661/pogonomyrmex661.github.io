@@ -35,4 +35,4 @@ But one thing I do know: their galls sure are pretty.
 _Sources:_  
 _Russo, Ronald A. 2021. [Plant Galls of the Western United States (Princeton Field Guides, 142)](https://www.amazon.com/Western-United-States-Princeton-Guides/dp/0691205760?psc=1). Princeton University Press. ISBN-10: 0691205760._
 
-_Bugguide.net also has some good photos that helped confirm my ID on their [https://bugguide.net/node/view/544626/bgimage](https://Blaesodiplosis page). This page was especially useful in confirming the identification since my galls didn't quite match what Russo (2021) describes as a "Tooth Gall". Also, Russo's description of his "Tooth Gall" mentions that the galls occur between the leaf veins, not on them, as these ones do._
+_Bugguide.net also has some good photos that helped confirm my ID on their [https://bugguide.net/node/view/544626/bgimage](https://Blaesodiplosis) page. This page was especially useful in confirming the identification since my galls didn't quite match what Russo (2021) describes as a "Tooth Gall". Also, Russo's description of his "Tooth Gall" mentions that the galls occur between the leaf veins, not on them, as these ones do._
