@@ -1,9 +1,9 @@
 ---
-title: Painted Hand
+title: Painted Hand Ruins
 date: 2018-06-18 02:02:02 +0700
 categories: [post]
 tags: [ruins and petroglyphs, art, archaeology]
-image: images/BFCE7897-7FA7-4D59-B767-43BBDDAD1BDF-958x1024.jpeg
+image: images/0F38D147-F458-4783-9F27-5DBE4293B9D2-1024x682.jpeg
 description: A trip out to Painted Hand ruins, near Hovenweep
 ---
 
