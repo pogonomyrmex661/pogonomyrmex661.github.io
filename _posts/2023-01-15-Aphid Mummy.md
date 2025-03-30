@@ -2,7 +2,7 @@
 title: Aphid Mummy
 date: 2023-01-15 02:02:02 +0700
 categories: [wasp]
-tags: [aphid, parasite, wasp, hymenoptera, insect]
+tags: [aphid, parasite, wasp, bee/wasp]
 image: images/IMG_0683.jpg
 description:
 ---

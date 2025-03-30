@@ -2,7 +2,7 @@
 title: Xanthoteras eburneum - Cynipid Wasp galls on Gambel Oak
 date: 2022-08-22 02:02:02 +0700
 categories: [gall]
-tags: [gall, insect, wasp, hymenoptera]
+tags: [gall, insect, wasp, bee/wasp]
 image: images/6745CE01-8332-438B-A3D3-E7C1A60D700F.jpeg
 description: 
 ---

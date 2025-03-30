@@ -2,7 +2,7 @@
 title: Watching Hunt's Bumble Bee (<i>Bombus huntii</i>) on Caragana in the Springtime
 date: 2024-11-24 02:02:02 +0700
 categories: [photo]
-tags: [insect, hymenoptera, bee]
+tags: [bee/wasp]
 image: images/aaaa-IMG_4610-g-r.jpg
 description: 
 ---

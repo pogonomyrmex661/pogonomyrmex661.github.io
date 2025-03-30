@@ -2,7 +2,7 @@
 title: Watching a Spider Wasp Hunting in Southwestern Colorado
 date: 2024-11-17 02:02:02 +0700
 categories: [photo]
-tags: [insect, wasp, hymenoptera, spider]
+tags: [wasp, bee/wasp, spider]
 image: images/aa-IMG_1520_f-g-r2.jpg
 description: 
 ---

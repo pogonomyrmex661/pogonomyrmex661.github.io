@@ -2,7 +2,7 @@
 title: Pheidole militicida - The "Soldier Killer" Ants
 date: 2020-11-25 02:02:02 +0700
 categories: [ant]
-tags: [ant, insect, hymenoptera]
+tags: [ant, insect]
 image: images/CRW_3247.jpg
 description: An account of watching and photographing *Pheidole militicida* - the "Soldier Killer Ants"
 ---

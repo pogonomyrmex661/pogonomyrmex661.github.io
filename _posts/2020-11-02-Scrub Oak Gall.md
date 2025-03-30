@@ -2,7 +2,7 @@
 title: Scrub Oak Gall
 date: 2020-11-02 02:02:02 +0700
 categories: [post]
-tags: [gall, wasp, hymenoptera]
+tags: [gall, wasp, bee/wasp]
 image: images/322AFAF7-1430-43F4-B57C-2CEC5F4F0BEB-1024x770.jpeg
 description: Looking at a cool gall, and finding out more about its strange origins
 ---

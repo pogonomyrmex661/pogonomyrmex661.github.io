@@ -2,7 +2,7 @@
 title: Ripiphorus Beetle
 date: 2020-11-03 02:02:02 +0700
 categories: [post]
-tags: [bee, beetle, parasite, triungulin, hymenoptera]
+tags: [bee, beetle, parasite, triungulin, bee/wasp]
 image: images/162F95FF-4355-46E2-8F94-CA2517DA843B-1024x800.jpeg
 description: Watching a Rhipiphorus Beetle - a beetle with an interesting relationship to bees - in the Sonoran Desert
 ---

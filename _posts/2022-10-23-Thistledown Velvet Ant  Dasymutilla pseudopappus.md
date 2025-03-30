@@ -2,7 +2,7 @@
 title: Thistledown Velvet Ant - Dasymutilla pseudopappus
 date: 2022-10-23 02:02:02 +0700
 categories: [wasp]
-tags: [wasp, insect, hymenoptera]
+tags: [wasp, insect, bee/wasp]
 image: images/IMG_1692.jpg
 description: Yesterday (2022-10-23) I was walking along a trail in Southwestern Colorado, at an elevation of about 6200'. As I looked down, I saw a bit of white fluff in the middle of the trail, one that was moving of its own accord.
 ---

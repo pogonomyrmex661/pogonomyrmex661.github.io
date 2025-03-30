@@ -2,7 +2,7 @@
 title: Small native bee on Rocky Mountain Bee Plant - Lasioglossum sp?
 date: 2021-08-05 02:02:02 +0700
 categories: [post]
-tags: [plant, bee, hymenoptera]
+tags: [plant, bee, bee/wasp]
 image: images/IMG_0108.jpg
 description: Watching Lasioglossum bees in Southwestern Colorado
 ---

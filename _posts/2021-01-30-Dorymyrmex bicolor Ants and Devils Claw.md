@@ -2,7 +2,7 @@
 title: Dorymyrmex bicolor Ants and Devil's Claw
 date: 2021-01-30 02:02:02 +0700
 categories: [post]
-tags: [ant, carnivorous plants, plant]
+tags: [ant, insectivorous plant, plant]
 image: images/IMG_6120-1024x683.jpg
 description: Thinking about ants and sticky leaves on plants
 ---

@@ -2,7 +2,7 @@
 title: Spring 2023 - Mourning Cloaks and Chorus Frogs
 date: 2023-04-09 02:02:02 +0700
 categories: [frog]
-tags: [frog, amphibian, butterfly, insect, hymenoptera]
+tags: [frog, amphibian, butterfly, insect, bee/wasp]
 image: images/IMG_0638.jpg
 description: 
 ---

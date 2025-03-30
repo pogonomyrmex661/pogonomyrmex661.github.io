@@ -2,7 +2,7 @@
 title: Small Native Bee on Rocky Mountain Bee Plant - Hylaeus, a “Cellophane” Bee
 date: 2021-08-05 02:02:02 +0700
 categories: [post]
-tags: [bees plant, hymenoptera]
+tags: [bees plant, bee/wasp]
 image: images/IMG_0063.jpg
 description: Watching a native bee in Southwestern Colorado
 ---
