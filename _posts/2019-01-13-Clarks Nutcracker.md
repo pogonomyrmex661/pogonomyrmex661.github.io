@@ -2,7 +2,7 @@
 title: Clark’s Nutcracker
 date: 2019-01-13 02:02:02 +0700
 categories: [post]
-tags: [art, birds]
+tags: [art, bird]
 image: images/EE5BC89C-4997-4CE7-AAF1-2078E600E346-1024x861.jpeg
 description: Watching Clark's Nutcrackers in Southwestern Colorado
 ---

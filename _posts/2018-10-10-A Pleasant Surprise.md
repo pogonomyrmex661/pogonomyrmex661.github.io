@@ -2,7 +2,7 @@
 title: Ruin in Canyons of the Ancients - A Pleasant Surprise
 date: 2018-10-10 02:02:02 +0700
 categories: [post]
-tags: [ruins, art, colorado]
+tags: [ruin, art, colorado]
 image: images/B895F963-EBBA-4724-9ADC-964939530F6A-1024x605.jpeg
 description: Another trip through Canyons of the Ancients, and finding a ruin that I hadn't expected
 ---

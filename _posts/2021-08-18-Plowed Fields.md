@@ -2,7 +2,7 @@
 title: Plowed Fields and Ruins
 date: 2021-08-18 02:02:02 +0700
 categories: [post]
-tags: [ruins, archaeology]
+tags: [ruin, archaeology]
 image: images/DE67EC5D-226B-4185-972E-4B80F1DD4BDD.jpeg
 description: Couple of thoughts on those strange unplowed areas in Southwestern fields
 ---

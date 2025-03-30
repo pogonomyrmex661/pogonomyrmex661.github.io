@@ -2,7 +2,7 @@
 title: Damselfly in Distress
 date: 2022-08-13 02:02:02 +0700
 categories: [insect]
-tags: [insect, damselfly]
+tags: [insect]
 image: images/IMG_6678.jpg
 description: 
 ---

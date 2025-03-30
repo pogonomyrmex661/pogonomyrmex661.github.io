@@ -2,7 +2,7 @@
 title: Jack the Crow
 date: 2018-09-22 02:02:02 +0700
 categories: [post]
-tags: [art, bird, raven, stories]
+tags: [art, bird, raven, story]
 image: images/C2070D50-8337-422D-ACE4-6264B3AC2B91-1024x969.jpeg
 description: Many years ago, I had a friend who was a Crow...
 ---

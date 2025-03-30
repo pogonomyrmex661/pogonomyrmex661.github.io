@@ -2,7 +2,7 @@
 title: Winter Starling
 date: 2018-03-05 02:02:02 +0700
 categories: [post]
-tags: [birds]
+tags: [bird]
 image: images/D405CD71-93CB-42F6-A0BF-E6960A76CB45-777x1024.jpeg
 description: Thoughts about Starling plumage changes
 ---

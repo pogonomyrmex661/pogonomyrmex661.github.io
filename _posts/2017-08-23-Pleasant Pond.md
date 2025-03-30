@@ -2,7 +2,7 @@
 title: Pleasant Pond
 date: 2017-08-23 02:02:02 +0700
 categories: [post]
-tags: [stories]
+tags: [story]
 image: images/raven-blogger-avatar.jpeg
 description: Remembering snorkelling in Pleasant Pond, New Hampshire
 ---

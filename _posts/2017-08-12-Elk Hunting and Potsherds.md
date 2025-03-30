@@ -1,8 +1,8 @@
 ---
 title: Elk Hunting and Potsherds
 date: 2017-08-12 02:02:02 +0700
-categories: [stories]
-tags: [stories, archaeology]
+categories: [post]
+tags: [storie, archaeology]
 image: images/18920712_10212810887010161_1285847254785894414_n.jpg
 description:
 ---

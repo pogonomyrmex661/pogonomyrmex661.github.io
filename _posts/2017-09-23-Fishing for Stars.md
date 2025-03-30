@@ -1,8 +1,8 @@
 ---
 title: Fishing for Stars
 date: 2017-09-23 02:02:02 +0700
-categories: [stories]
-tags: [belize, stories, snorkel, invertebrate, starfish]
+categories: [post]
+tags: [belize, story, snorkel, invertebrate, starfish]
 image: images/IMG_0109.jpg
 description: A fine experience and unexpected connections on a snorkeling trip to Belize
 ---

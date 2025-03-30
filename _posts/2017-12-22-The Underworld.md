@@ -1,8 +1,8 @@
 ---
 title: The Underworld
 date: 2017-12-22 02:02:02 +0700
-categories: [stories]
-tags: [stories]
+categories: [post]
+tags: [story]
 image: images/raven-blogger-avatar.jpeg
 description: I’ve heard that “Curiosity killed the cat.” I’m not sure how accurate that saying is. It seems to me that coyotes are much harder on cats than curiosity ever was. But I know that curiosity has caused me some trouble…
 ---

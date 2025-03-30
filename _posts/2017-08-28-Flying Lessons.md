@@ -1,8 +1,8 @@
 ---
 title: Flying Lessons
 date: 2017-08-28 02:02:02 +0700
-categories: [stories]
-tags: [bird, stories]
+categories: [post]
+tags: [bird, story]
 image: images/raven-blogger2.jpeg
 description: A tale of a six-year-old with cardboard wings and a book
 ---

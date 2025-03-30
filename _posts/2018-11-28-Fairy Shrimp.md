@@ -2,7 +2,7 @@
 title: Fairy Shrimp at the Colorado National Monument
 date: 2018-11-28 02:02:02 +0700
 categories: [post]
-tags: [colorado, ephemeralpool, inverts, video]
+tags: [colorado, ephemeral pool, inverts, video]
 image: images/D1119BD9-4597-4200-984C-A78C61E7E167-768x1024.jpeg
 description: Watching Fairy Shrimp in spectacular location - a puddle on the edge of a cliff in the Colorado National Monument
 ---
