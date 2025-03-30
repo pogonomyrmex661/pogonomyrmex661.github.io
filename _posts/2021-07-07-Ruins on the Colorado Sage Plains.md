@@ -2,7 +2,7 @@
 title: Ruins on the Colorado Sage Plains
 date: 2021-07-07 02:02:02 +0700
 categories: [post]
-tags: [ant, ruins and petroglyphs, colorado]
+tags: [ant, ruins and petroglyphs]
 image: images/20210525_141226.jpg
 description: Finding an old ruin site in the sage desert of southwestern Colorado
 ---
