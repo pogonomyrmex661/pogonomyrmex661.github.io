@@ -4,7 +4,7 @@ date: 2021-09-14 02:02:02 +0700
 categories: [snakes]
 tags: [reptile, snake, utah]
 image: images/IMG_0930-scaled.jpg
-description: 
+description: Coming across a Midget Faded Rattlesnake while out looking at my Spadefoot Toad tadpoles
 ---
 
 ![picture](images/IMG_0930.jpg)
@@ -12,12 +12,7 @@ description:
 
 A couple of days ago, I was wandering through the desert scrub in Southeastern Utah. I came across a Rattlesnake.
 
-<!--more-->
-
 The snake was near one of my Spadefoot tadpole pools, and was crawling on a patch of bare, hard-baked ground near the pool. When it became aware of me, it swam across a shallow part of the pool and coiled in a dead Sagebrush.
-
-![picture](images/IMG_0939.jpg)
-*Closeup of Midget Faded Rattlesnake.*
 
 I walked over to the snake to watch it for a while. You can't tell from these photos, but I was a safe distance away from the snake. I _really_ like telephoto lenses.
 
@@ -27,9 +22,6 @@ The snake watched me intently as I took photos. The snake was obviously aware of
 *Midget Faded Rattlesnake watches me.*
 
 I loved the calm alertness of this snake.
-
-![picture](images/IMG_0953.jpg)
-*Midget Faded Rattlesnake watching me.*
 
 After a while, the snake seemed to come to a decision. I wasn't dangerous, but I was annoying.
 
