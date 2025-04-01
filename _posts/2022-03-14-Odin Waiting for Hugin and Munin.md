@@ -24,7 +24,7 @@ But what if...one day you send your thoughts and memories out into the world...b
 Is that what dementia is? 
 
 
-Sources:
+_Sources:_
 
 I also talked about this subject in [a previous post](/blog/2017/10/06/Odins-Birds-Reflections-on-Thought-and-Memory), but thought I'd revisit it.
 
