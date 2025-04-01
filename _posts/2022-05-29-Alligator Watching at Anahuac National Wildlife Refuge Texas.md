@@ -2,7 +2,7 @@
 title: Alligator Watching at Anahuac National Wildlife Refuge, Texas
 date: 2022-05-29 02:02:02 +0700
 categories: [post]
-tags: [alligator/crocodile, reptile]
+tags: [crocodilian, reptile]
 image: images/IMG_4910-scaled.jpg
 description: Laurie said, “He’s right there. In the middle of the water. Look. Look. Look where I’m pointing.” Laurie and I had just entered the Anahuac National Wildlife Refuge in Texas. We’d come hoping to see Alligators. She had seen a good-sized gator…
 ---

@@ -2,7 +2,7 @@
 title: Sharp-shinned Hawk - Feeding the Birds on a Winter Morning
 date: 2023-01-19 02:02:02 +0700
 categories: [hawk]
-tags: [bird, hawk, sharp-shinned hawk, accipiter]
+tags: [bird, hawk , accipiter]
 image: images/IMG_2696_r.jpg
 description: 
 ---

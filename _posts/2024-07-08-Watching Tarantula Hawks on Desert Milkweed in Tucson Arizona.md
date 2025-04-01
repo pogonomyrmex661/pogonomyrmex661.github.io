@@ -2,7 +2,7 @@
 title: Watching Tarantula Hawks on Desert Milkweed in Tucson, Arizona
 date: 2024-07-08 02:02:02 +0700
 categories: [photo]
-tags: [insect, bee/wasp]
+tags: [insect, bee/wasp, wasp]
 image: images/aa-CRW_2398-g-r.jpg
 description: 
 ---

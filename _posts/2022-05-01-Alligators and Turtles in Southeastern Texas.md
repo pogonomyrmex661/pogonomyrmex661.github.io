@@ -2,7 +2,7 @@
 title: Alligators and Turtles in Southeastern Texas
 date: 2022-05-01 02:02:02 +0700
 categories: [post]
-tags: [alligator/crocodile, turtle]
+tags: [crocodilian, turtle]
 image: images/IMG_6182-1024x673.jpg
 description: I started thinking about Softshell Turtles when I was writing about the Red-eared Slider Turtles with possible Alligator tooth marks on them. If the marks on the shells of Sliders really were toothmarks, then how on Earth do Softshell Turtles coexist…
 ---
