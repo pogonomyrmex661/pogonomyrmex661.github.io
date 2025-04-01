@@ -4,7 +4,7 @@ date: 2022-03-14 02:02:02 +0700
 categories: [art]
 tags: [art, bird, raven, mythology]
 image: images/10440DF1-1F57-4F49-BD15-31804C26B39A-1024x766.jpeg
-description: What was it like for Odin to wait for his ravens to return? What if you send your thoughts and memories into the world, and they don't come back?
+description: What was it like for Odin to wait for his Ravens to return? What happens if you send your thoughts and memories into the world, but they don't come back?
 ---
 
 In Norse mythology, Odin had two ravens - Hugin ("Thought") and Munin ("Mind", "Memory",  depending on the translation). Every day before breakfast, Odin would set his Ravens to fly across the World, to return and bring him all of the news.
