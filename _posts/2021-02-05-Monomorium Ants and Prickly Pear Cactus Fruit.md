@@ -36,11 +36,11 @@ The ants had made a cavity inside the fruit and were feeding on juice, which was
 
 I'm guessing that the ants had not made this opening into the fruit, since I had not regularly seen an opening into a fruit like this before. I'd assume that if the ants had made it, I would have seen more of these "doors" into the fruits, given what a bounty was inside.
 
-Figure it must have been like a dream come true to them.
+Figure it must have been like a dream come true to them, a cave lined with sugary food.
 
 Perhaps a bird had pecked at the fruit, and it split? Whatever happened, I think the original damage had happened some time ago. If you look at the first photo of the Prickly Pear fruity, you can see that there's an area of normal red color on one edge of the slit, surrounded by the brownish discoloration surrounding the slit. 
 
-It's also interesting that the slit in the Prickly Pear fruit looked a lot like the entrance slits in the Coccid Thorn Galls I'd [seen in the Santa Rita Mountains](/blog/2021/05/17/Coccid-Thorn-Gall-on-Emory-Oak-Olliffiella-cristicola/).
+It's also interesting that the slit in the Prickly Pear fruit looked a lot like the entrance slits in the Coccid Thorn Galls I'd [seen in the Santa Rita Mountains](/blog/2021/05/17/Coccid-Thorn-Gall-on-Emory-Oak-Olliffiella-cristicola/). Here's what that looked like:
 ![picture](images/DSCN9864-1024x768.jpg).  
 
 This observation scould be as un-meaningful as observing that "slits in plants look likeslits in plants". But I thought it was pretty neat, nonetheless.
