@@ -1,8 +1,8 @@
 ---
 title: Blogging and Signal Transduction
 date: 2021-04-24 02:02:02 +0700
-categories: [art, corvids]
-tags: [art, raven]
+categories: [post]
+tags: [art, raven, story]
 image: images/CD894EAF-58B8-40B9-9E65-11387BD4FD3C-782x1024.jpeg
 description: Some thoughts onthe strangeness of "blogging".
 ---
