@@ -3,7 +3,7 @@ title: Colorado Blackfly Larvae
 date: 2021-07-01 02:02:02 +0700
 categories: [post]
 tags: [insect, fly]
-image: images/IMG_9686-scaled.jpg
+image: images/IMG_9686.jpg
 description: Looking at Blackfly larvae in a mountain stream in southwestern Colorado
 ---
 
