@@ -21,9 +21,6 @@ The mass of ants followed along the edge of the sidewalk for perhaps six feet or
 
 These are warring _Tetramorium immigrans_ colonies. These wars usually break out in the Spring and early Summer, when the colonies are trying to establish their territories.
 
-![picture](images/IMG_8045.jpg)
-*Dense clump of fighting Tetramorium immigrans. They looked like a seething mass of oil to me.*
-
 The ants pour out of their nests in masses and fight semi-formalized battles, looking like living oil spills.
 
 "Formalized" because a lot of the fighting is ritualized - the ants pull and tug at each other, but don't go at each other in a full-throated attempt to kill.
