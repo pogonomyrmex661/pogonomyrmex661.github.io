@@ -4,7 +4,7 @@ date: 2021-02-17 02:02:02 +0700
 categories: [post]
 tags: [ant, spider, insect, ants and spiders]
 image: images/480461CC-1CDD-41FE-9AF0-3DCFA000C453-1024x714.jpeg
-description: Euryopis spiders killing Rough Harvester Ants during the night in Tucson, Arizona
+description: Euryopis spiders killing Rough Harvester Ants (and Forelius!) on a night in Tucson, Arizona
 ---
 
 ![picture](images/480461CC-1CDD-41FE-9AF0-3DCFA000C453-1024x714.jpeg)
