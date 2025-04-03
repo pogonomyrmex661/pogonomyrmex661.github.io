@@ -1,8 +1,8 @@
 ---
 title: Odin's Birds - Reflections on Thought and Memory
 date: 2017-10-07 02:02:02 +0700
-categories: [raven]
-tags: [raven, mythology]
+categories: [post]
+tags: [raven, corvid, mythology]
 image: images/IMG_3846.jpg
 description: Ravens, Odin, and what does it mean?
 ---

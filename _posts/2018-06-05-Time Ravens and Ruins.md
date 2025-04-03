@@ -2,7 +2,7 @@
 title: Time, Ravens, and Ruins
 date: 2018-06-05 02:02:02 +0700
 categories: [post]
-tags: [ruins and petroglyphs, art, bird, raven, story]
+tags: [ruins and petroglyphs, art, bird, raven, corvid, story]
 image: images/D33325BC-F58D-440D-860C-6F845CA9D7AC-1024x695.jpeg
 description: 
 ---

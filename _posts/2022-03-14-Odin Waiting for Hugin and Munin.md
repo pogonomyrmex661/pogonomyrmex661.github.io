@@ -2,7 +2,7 @@
 title: Odin Waiting for Hugin and Munin
 date: 2022-03-14 02:02:02 +0700
 categories: [art]
-tags: [art, bird, raven, mythology]
+tags: [art, bird, raven, corvid, mythology]
 image: images/10440DF1-1F57-4F49-BD15-31804C26B39A-1024x766.jpeg
 description: What if Odin's Ravens hadn't come back to him?
 ---

@@ -2,7 +2,7 @@
 title: Whiskeyjack - Encounter with a Canada Jay
 date: 2021-08-11 02:02:02 +0700
 categories: [post]
-tags: [birds]
+tags: [bird, corvid]
 image: images/IMG_0167.jpg
 description: A fascinating encounter with a "scattercaching" Canada Jay in Southwestern Colorado
 ---

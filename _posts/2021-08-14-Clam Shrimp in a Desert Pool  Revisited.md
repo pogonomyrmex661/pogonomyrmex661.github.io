@@ -2,7 +2,7 @@
 title: Clam Shrimp in a Desert Pool - Revisited
 date: 2021-08-14 02:02:02 +0700
 categories: [post]
-tags: [colorado, ephemeralpool, inverts]
+tags: [colorado, ephemeral pool, inverts]
 image: images/IMG_0376.jpg
 description: Looking at Clam Shrimp (Ostracods) in an ephemeral pool in Southwestern Colorado
 ---

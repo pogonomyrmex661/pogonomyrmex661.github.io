@@ -2,7 +2,7 @@
 title: The Stomping Grounds
 date: 2019-08-12 02:02:02 +0700
 categories: [post]
-tags: [paleontology, dinosaur, utah]
+tags: [paleontology, dinosaur, corvid, utah]
 image: images/0B48B5EB-ABB0-42AA-BD96-AD8712A8DEE7.jpeg
 description: A trip to see "The Stomping Grounds" - a dinosaur track area near Moab, Utah
 ---
