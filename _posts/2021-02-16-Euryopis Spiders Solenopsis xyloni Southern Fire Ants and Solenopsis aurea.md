@@ -39,7 +39,7 @@ The tiny spider crawled over the dead _Solenopsis_ for a minute or so, then went
 
 ![picture](images/DSCN5626-1024x768.jpg)
 *The _Euryopis_ crawling off of the cluster of _Solenopsis xyloni_.*
-![picture](images/DSCN5626-arr.jpg)
+![picture](images/DSCN5626-1024x768-arr.jpg)
 *Previous photo, with yellow arrow marking Euryopis spider.*
 
 ![picture](images/DSCN5631-1024x768.jpg)
