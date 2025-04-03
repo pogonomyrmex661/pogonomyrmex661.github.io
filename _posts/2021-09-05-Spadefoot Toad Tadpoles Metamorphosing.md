@@ -35,9 +35,6 @@ Many of the tadpoles have their hind legs as this point. I'm not positive about 
 ![picture](images/IMG_0596.jpg)
 *Mexican Spadefoot tadpole in shallow water. They would push themselves into water so shallow that they would be barely submerged.*
 
-![picture](images/IMG_0659.jpg)
-*Mexican Spadefoot tadpole, swimming fast enough to create a wake in the water. You can just barely see the toes on its right hindlimb.*
-
 ![picture](images/IMG_0709-1.jpg)
 *Mexican Spadefoot Toad tadpole in the shallow water of the pool.*
 
