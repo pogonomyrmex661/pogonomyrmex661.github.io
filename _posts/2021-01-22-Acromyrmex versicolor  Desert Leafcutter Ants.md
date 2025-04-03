@@ -2,7 +2,7 @@
 title: Acromyrmex versicolor - Desert Leafcutter Ants
 date: 2021-01-22 02:02:02 +0700
 categories: [post]
-tags: [ant, insect]
+tags: [ant, leafcutter ant, insect]
 image: images/IMG_8260-1024x755.jpg
 description: Watching Leafcutter Ants in the Arizona Desert
 ---

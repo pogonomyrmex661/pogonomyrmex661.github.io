@@ -2,7 +2,7 @@
 title: Acromyrmex versicolor - Desert Leafcutter Ant Mating Flight
 date: 2021-01-24 02:02:02 +0700
 categories: [post]
-tags: [ant, insect]
+tags: [ant, leafcutter ant, insect]
 image: images/IMG_6675-1024x683.jpg
 description: Watching a Desert Leafcutter mating flight in Tucson, Arizona
 ---
