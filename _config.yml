@@ -23,7 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
+# Githumb deploy:
 url: "https://pogonomyrmex661.github.io"
+# tightloop deploy:
+#url: "https://tightloop.com"
 
 github:
   username: pogonomyrmex661.github.io # change to your GitHub username
@@ -61,7 +64,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: tightloopusages # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -150,7 +153,8 @@ pwa:
 paginate: 8
 
 # The base URL of your site 
-baseurl: ""
+#tightloop deploy:
+# baseurl: "/blog2"
 
 # ------------ The following options are not recommended to be modified ------------------
 
